@@ -2,7 +2,7 @@
 
 Welcome to my code portfolio
 
-![test]("images/test.jpeg")
+![test](images/test.jpeg)
 
 
 <!--
