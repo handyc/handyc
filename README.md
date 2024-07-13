@@ -67,9 +67,10 @@ Sydney         Sun 14 Jul 2024 01:34:26 AEST  (UTC+1000)
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
+[wnow](https://github.com/handyc/wnow)
+
 </details> 
 
-[wnow](https://github.com/handyc/wnow)
 
 <details><summary>chart</summary>
 
