@@ -11,3 +11,4 @@ Su Mo Tu We Th Fr Sa
 28 29 30 31           
                       
  2746 days until counter expiration
+<details><summary>menu1</summary>Menu text.</details>
