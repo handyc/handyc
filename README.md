@@ -10,4 +10,4 @@ Su Mo Tu We Th Fr Sa
 22 23 24 25 26 27 28  
 29 30 31              
                       
- 2728 days until counter expiration
+ 1998 days until counter expiration
