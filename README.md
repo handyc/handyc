@@ -1,4 +1,3 @@
-## Hello 😎
 ![banner](images/sunset.jpg)
 
 <details><summary>hanb/bri</summary>
