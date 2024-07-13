@@ -32,7 +32,39 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details>
-<details><summary>4</summary>
+<details><summary>menu item test5</summary>
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
+<pre>
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+REALLY SMALL TEXT
+</pre>
+</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
+
+</details> 
+
+<details><summary>chart</summary>
 
 Markdown | Less | Pretty
 --- | --- | ---
@@ -40,6 +72,16 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 </details> 
+<!---
+<details><summary>menu item test5</summary>
+
+Normal text
+<sub><sup>Small text</sup></sub>
+<sub><sup><sub><sup>Tiny text</sup></sub></sup></sub>
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>REALLY SMALL TEXT</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
+
+</details> 
+-->
 <!---
 <details><summary>menu item test5</summary>
 
