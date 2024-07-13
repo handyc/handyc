@@ -63,28 +63,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 22:34:09 UTC
-Honolulu        Sat 13 Jul 2024 12:34:09 HST
-Anchorage       Sat 13 Jul 2024 14:34:09 AKDT
-Seattle         Sat 13 Jul 2024 15:34:09 PDT
-Denver          Sat 13 Jul 2024 16:34:09 MDT
-Springfield     Sat 13 Jul 2024 17:34:09 CDT
-Buffalo         Sat 13 Jul 2024 18:34:09 EDT
-Antigonish      Sat 13 Jul 2024 19:34:09 ADT
-Buenos Aires    Sat 13 Jul 2024 19:34:09 -03
-Sao Paulo       Sat 13 Jul 2024 19:34:09 -03
-London          Sat 13 Jul 2024 23:34:09 BST
-Valencia        Sun 14 Jul 2024 00:34:09 CEST
-Jerusalem       Sun 14 Jul 2024 01:34:09 IDT
-Moscow          Sun 14 Jul 2024 01:34:09 MSK
-Tehran          Sun 14 Jul 2024 02:04:09 +0330
-Delhi           Sun 14 Jul 2024 04:04:09 IST
-Kathmandu       Sun 14 Jul 2024 04:19:09 +0545
-Bangkok         Sun 14 Jul 2024 05:34:09 +07
-Guangzhou       Sun 14 Jul 2024 06:34:09 CST
-Tokyo           Sun 14 Jul 2024 07:34:09 JST
-Sydney          Sun 14 Jul 2024 08:34:09 AEST
-Auckland        Sun 14 Jul 2024 10:34:09 NZST
+UTC             Sat 13 Jul 2024 22:35:27 UTC
+Honolulu        Sat 13 Jul 2024 12:35:27 HST
+Anchorage       Sat 13 Jul 2024 14:35:27 AKDT
+Seattle         Sat 13 Jul 2024 15:35:27 PDT
+Denver          Sat 13 Jul 2024 16:35:27 MDT
+Springfield     Sat 13 Jul 2024 17:35:27 CDT
+Buffalo         Sat 13 Jul 2024 18:35:27 EDT
+Antigonish      Sat 13 Jul 2024 19:35:27 ADT
+Buenos Aires    Sat 13 Jul 2024 19:35:27 -03
+Sao Paulo       Sat 13 Jul 2024 19:35:27 -03
+London          Sat 13 Jul 2024 23:35:27 BST
+Valencia        Sun 14 Jul 2024 00:35:27 CEST
+Jerusalem       Sun 14 Jul 2024 01:35:27 IDT
+Moscow          Sun 14 Jul 2024 01:35:27 MSK
+Tehran          Sun 14 Jul 2024 02:05:27 +0330
+Delhi           Sun 14 Jul 2024 04:05:27 IST
+Kathmandu       Sun 14 Jul 2024 04:20:27 +0545
+Bangkok         Sun 14 Jul 2024 05:35:27 +07
+Guangzhou       Sun 14 Jul 2024 06:35:27 CST
+Tokyo           Sun 14 Jul 2024 07:35:27 JST
+Sydney          Sun 14 Jul 2024 08:35:27 AEST
+Auckland        Sun 14 Jul 2024 10:35:27 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -275,68 +275,26 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c
-
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-
-b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
-                      a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
-                      d   d   d   d  RRR  d   d   d   d                      
-  b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
-b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
-  b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b  
-b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
-  b   b   b   b   b   b   b                       b   b   b   b   b   b   b  
-b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
-  b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b  
-b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
-                      a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c
-
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-[hanb](https://github.com/handyc/hanb) 
-
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
+
+
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
 
 </details>
 
