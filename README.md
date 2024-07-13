@@ -5,7 +5,6 @@
 data description test
 </details> 
 <details><summary>menu item test2</summary>
-<sup>
 Last login: Sat Jul 13 13:52:57 on ttys000
 You have mail.
 
@@ -31,7 +30,6 @@ clarity2:~ handyc$
 
 
 
-</sup>
 </details> 
 <details><summary>menu item test3</summary>
 <sup>
