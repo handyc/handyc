@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello 😎
 
-test for profile page
+Welcome to my code portfolio
 
 <!--
 **handyc/handyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
