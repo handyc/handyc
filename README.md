@@ -13,53 +13,29 @@ k
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
    b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
-
- b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
-
-   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b
-
- b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
-
-  c   c   c   c   c   c   c                       c   c   c   c   c   c   c
-
- c   c   c   c   c   c   c     d   d   d   d   d     c   c   c   c   c   c   c
-
-   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c
-
- c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c
-
-   c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c
-
-                       d   d   d   d   d   d   d   d   d
-
    b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
-
- b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
-
-   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b
-
- b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
-
-Sat Jul 13 17:20:52 CEST 2024                     c   c   c   c   c   c   c
-
-Bye! c   c   c   c   c   c     d   d   d   d   d     c   c   c   c   c   c   c
-
-(choco) clarity2:scripts handyc$ d   d   d   d   d     c   c   c   c   c   c
-
- c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c
-
-   c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c
-
-                       d   d   d   d   d   d   d   d   d
-
    b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
-
- b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
-
-   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b
-
- b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
-
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
+   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
