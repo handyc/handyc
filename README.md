@@ -1,15 +1,7 @@
 ## Hello 😎
 ![banner](images/sunset.jpg)
 
-<details><summary>menu item test</summary>
-
-DH Tools: [dhtools](https://dhtools.org)
-
-data description test
-</details><details><summary>menu item test2</summary>
-k
-</details> 
-<details><summary>menu item test3</summary>
+<details><summary>hanb/bri</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
@@ -40,7 +32,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details>
-<details><summary>menu item test4</summary>
+<details><summary>4</summary>
 
 Markdown | Less | Pretty
 --- | --- | ---
