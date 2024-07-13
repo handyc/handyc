@@ -6,8 +6,7 @@
 DH Tools: [dhtools](https://dhtools.org)
 
 data description test
-</details> 
-<details><summary>menu item test2</summary>
+</details><details><summary>menu item test2</summary>
 Last login: Sat Jul 13 13:52:57 on ttys000
 You have mail.
 
