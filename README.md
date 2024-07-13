@@ -59,38 +59,6 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 
 [bri](https://github.com/handyc/bri)
 
-</details>
-<details><summary>hclock/wnow</summary>
-<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>
-UTC             Sat 13 Jul 2024 23:06:05 UTC
-Honolulu        Sat 13 Jul 2024 13:06:05 HST
-Anchorage       Sat 13 Jul 2024 15:06:05 AKDT
-Seattle         Sat 13 Jul 2024 16:06:05 PDT
-Denver          Sat 13 Jul 2024 17:06:05 MDT
-Springfield     Sat 13 Jul 2024 18:06:05 CDT
-Buffalo         Sat 13 Jul 2024 19:06:05 EDT
-Antigonish      Sat 13 Jul 2024 20:06:05 ADT
-Buenos Aires    Sat 13 Jul 2024 20:06:05 -03
-Sao Paulo       Sat 13 Jul 2024 20:06:05 -03
-London          Sun 14 Jul 2024 00:06:05 BST
-Valencia        Sun 14 Jul 2024 01:06:05 CEST
-Jerusalem       Sun 14 Jul 2024 02:06:05 IDT
-Moscow          Sun 14 Jul 2024 02:06:05 MSK
-Tehran          Sun 14 Jul 2024 02:36:05 +0330
-Delhi           Sun 14 Jul 2024 04:36:05 IST
-Kathmandu       Sun 14 Jul 2024 04:51:05 +0545
-Bangkok         Sun 14 Jul 2024 06:06:06 +07
-Guangzhou       Sun 14 Jul 2024 07:06:06 CST
-Tokyo           Sun 14 Jul 2024 08:06:06 JST
-Sydney          Sun 14 Jul 2024 09:06:06 AEST
-Auckland        Sun 14 Jul 2024 11:06:06 NZST
-
-</pre>
-</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-
-[wnow](https://github.com/handyc/wnow)
-
 </details> 
 
 <!---
