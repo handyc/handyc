@@ -63,28 +63,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 22:18:07 UTC
-Honolulu        Sat 13 Jul 2024 12:18:07 HST
-Anchorage       Sat 13 Jul 2024 14:18:07 AKDT
-Seattle         Sat 13 Jul 2024 15:18:07 PDT
-Denver          Sat 13 Jul 2024 16:18:07 MDT
-Springfield     Sat 13 Jul 2024 17:18:07 CDT
-Buffalo         Sat 13 Jul 2024 18:18:07 EDT
-Antigonish      Sat 13 Jul 2024 19:18:07 ADT
-Buenos Aires    Sat 13 Jul 2024 19:18:07 -03
-Sao Paulo       Sat 13 Jul 2024 19:18:07 -03
-London          Sat 13 Jul 2024 23:18:07 BST
-Valencia        Sun 14 Jul 2024 00:18:07 CEST
-Jerusalem       Sun 14 Jul 2024 01:18:07 IDT
-Moscow          Sun 14 Jul 2024 01:18:07 MSK
-Tehran          Sun 14 Jul 2024 01:48:07 +0330
-Delhi           Sun 14 Jul 2024 03:48:07 IST
-Kathmandu       Sun 14 Jul 2024 04:03:07 +0545
-Bangkok         Sun 14 Jul 2024 05:18:07 +07
-Guangzhou       Sun 14 Jul 2024 06:18:07 CST
-Tokyo           Sun 14 Jul 2024 07:18:07 JST
-Sydney          Sun 14 Jul 2024 08:18:07 AEST
-Auckland        Sun 14 Jul 2024 10:18:07 NZST
+UTC             Sat 13 Jul 2024 22:19:12 UTC
+Honolulu        Sat 13 Jul 2024 12:19:12 HST
+Anchorage       Sat 13 Jul 2024 14:19:12 AKDT
+Seattle         Sat 13 Jul 2024 15:19:12 PDT
+Denver          Sat 13 Jul 2024 16:19:12 MDT
+Springfield     Sat 13 Jul 2024 17:19:12 CDT
+Buffalo         Sat 13 Jul 2024 18:19:12 EDT
+Antigonish      Sat 13 Jul 2024 19:19:12 ADT
+Buenos Aires    Sat 13 Jul 2024 19:19:12 -03
+Sao Paulo       Sat 13 Jul 2024 19:19:12 -03
+London          Sat 13 Jul 2024 23:19:12 BST
+Valencia        Sun 14 Jul 2024 00:19:12 CEST
+Jerusalem       Sun 14 Jul 2024 01:19:12 IDT
+Moscow          Sun 14 Jul 2024 01:19:12 MSK
+Tehran          Sun 14 Jul 2024 01:49:12 +0330
+Delhi           Sun 14 Jul 2024 03:49:12 IST
+Kathmandu       Sun 14 Jul 2024 04:04:12 +0545
+Bangkok         Sun 14 Jul 2024 05:19:12 +07
+Guangzhou       Sun 14 Jul 2024 06:19:12 CST
+Tokyo           Sun 14 Jul 2024 07:19:12 JST
+Sydney          Sun 14 Jul 2024 08:19:12 AEST
+Auckland        Sun 14 Jul 2024 10:19:12 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -354,9 +354,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 [bri](https://github.com/handyc/bri)
 
 </details>
-
-
-link matrix
+ link matrix
 
 ````````
      July 2024            January 2038      
