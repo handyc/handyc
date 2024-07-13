@@ -3,18 +3,18 @@
 
 <details><summary>hanb/bri</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 
-                      a   a   a   a   a   a   a   a   a                 
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c 
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c 
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c 
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c 
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c 
+<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
+                      a   a   a   a   a   a   a   a   a                      
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
+c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
+  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
+c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
+  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
+c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
+  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
+c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
+  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
                       d   d   d   d  RRR  d   d   d   d                      
   b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
 b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
@@ -28,18 +28,18 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
                       a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c
 </pre>
-<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 
-                      a   a   a   a   a   a   a   a   a                 
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c 
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c 
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c 
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c 
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c 
+<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
+                      a   a   a   a   a   a   a   a   a                      
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
+c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
+  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
+c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
+  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
+c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
+  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
+c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
+  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
                       d   d   d   d  RRR  d   d   d   d                      
   b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
 b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
@@ -63,28 +63,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 22:50:34 UTC
-Honolulu        Sat 13 Jul 2024 12:50:34 HST
-Anchorage       Sat 13 Jul 2024 14:50:34 AKDT
-Seattle         Sat 13 Jul 2024 15:50:34 PDT
-Denver          Sat 13 Jul 2024 16:50:34 MDT
-Springfield     Sat 13 Jul 2024 17:50:34 CDT
-Buffalo         Sat 13 Jul 2024 18:50:34 EDT
-Antigonish      Sat 13 Jul 2024 19:50:34 ADT
-Buenos Aires    Sat 13 Jul 2024 19:50:34 -03
-Sao Paulo       Sat 13 Jul 2024 19:50:34 -03
-London          Sat 13 Jul 2024 23:50:34 BST
-Valencia        Sun 14 Jul 2024 00:50:34 CEST
-Jerusalem       Sun 14 Jul 2024 01:50:34 IDT
-Moscow          Sun 14 Jul 2024 01:50:34 MSK
-Tehran          Sun 14 Jul 2024 02:20:34 +0330
-Delhi           Sun 14 Jul 2024 04:20:34 IST
-Kathmandu       Sun 14 Jul 2024 04:35:34 +0545
-Bangkok         Sun 14 Jul 2024 05:50:34 +07
-Guangzhou       Sun 14 Jul 2024 06:50:34 CST
-Tokyo           Sun 14 Jul 2024 07:50:34 JST
-Sydney          Sun 14 Jul 2024 08:50:34 AEST
-Auckland        Sun 14 Jul 2024 10:50:34 NZST
+UTC             Sat 13 Jul 2024 22:53:07 UTC
+Honolulu        Sat 13 Jul 2024 12:53:07 HST
+Anchorage       Sat 13 Jul 2024 14:53:07 AKDT
+Seattle         Sat 13 Jul 2024 15:53:07 PDT
+Denver          Sat 13 Jul 2024 16:53:07 MDT
+Springfield     Sat 13 Jul 2024 17:53:07 CDT
+Buffalo         Sat 13 Jul 2024 18:53:07 EDT
+Antigonish      Sat 13 Jul 2024 19:53:07 ADT
+Buenos Aires    Sat 13 Jul 2024 19:53:07 -03
+Sao Paulo       Sat 13 Jul 2024 19:53:07 -03
+London          Sat 13 Jul 2024 23:53:07 BST
+Valencia        Sun 14 Jul 2024 00:53:07 CEST
+Jerusalem       Sun 14 Jul 2024 01:53:07 IDT
+Moscow          Sun 14 Jul 2024 01:53:07 MSK
+Tehran          Sun 14 Jul 2024 02:23:07 +0330
+Delhi           Sun 14 Jul 2024 04:23:07 IST
+Kathmandu       Sun 14 Jul 2024 04:38:07 +0545
+Bangkok         Sun 14 Jul 2024 05:53:07 +07
+Guangzhou       Sun 14 Jul 2024 06:53:07 CST
+Tokyo           Sun 14 Jul 2024 07:53:07 JST
+Sydney          Sun 14 Jul 2024 08:53:07 AEST
+Auckland        Sun 14 Jul 2024 10:53:07 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -194,18 +194,18 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hanb/bri</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 
-                      a   a   a   a   a   a   a   a   a                 
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c 
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c 
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c 
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c 
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c 
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
+                      a   a   a   a   a   a   a   a   a                      
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
+c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
+  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
+c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
+  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
+c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
+  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
+c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
+  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
                       d   d   d   d  RRR  d   d   d   d                      
   b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
 b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
@@ -251,18 +251,18 @@ Normal text
 
 <details><summary>link matrix</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 
-                      a   a   a   a   a   a   a   a   a                                       a   a   a   a   a   a   a   a   a                                       a   a   a   a   a   a   a   a   a                 
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c 
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c 
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c 
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c 
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c 
+<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   bb   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b    b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 
+                      a   a   a   a   a   a   a   a   a                                            a   a   a   a   a   a   a   a   a                                       a   a   a   a   a   a   a   a   a                 
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c    c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c 
+c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   cc   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   
+  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c    c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c 
+c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   cc   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   
+  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c    c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c 
+c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   cc   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   
+  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c    c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c 
+c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   cc   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   
+  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c    c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c 
                       d   d   d   d  RRR  d   d   d   d                                            d   d   d   d  RRR  d   d   d   d                                       d   d   d   d  RRR  d   d   d   d                 
   b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b    b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b 
 b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   bb   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   
