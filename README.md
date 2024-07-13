@@ -2,7 +2,7 @@
 
 Welcome to my code portfolio
 
-![test image](https://raw.githubusercontent.com/handyc/handyc/images/photo_2024-07-13 11.26.05.jpeg)
+![test]("images/photo_2024-07-13 11.26.05.jpeg")
 
 
 
