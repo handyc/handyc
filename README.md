@@ -58,6 +58,15 @@ The default interactive shell is now zsh.
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 <sup>
+</details>
+<details><summary>menu item test4</summary>
+<sup>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+<sup>
 </details>2746 days until counter expiration
 
 ````
