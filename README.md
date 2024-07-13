@@ -63,28 +63,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 22:24:03 UTC
-Honolulu        Sat 13 Jul 2024 12:24:03 HST
-Anchorage       Sat 13 Jul 2024 14:24:03 AKDT
-Seattle         Sat 13 Jul 2024 15:24:03 PDT
-Denver          Sat 13 Jul 2024 16:24:03 MDT
-Springfield     Sat 13 Jul 2024 17:24:03 CDT
-Buffalo         Sat 13 Jul 2024 18:24:03 EDT
-Antigonish      Sat 13 Jul 2024 19:24:03 ADT
-Buenos Aires    Sat 13 Jul 2024 19:24:03 -03
-Sao Paulo       Sat 13 Jul 2024 19:24:03 -03
-London          Sat 13 Jul 2024 23:24:03 BST
-Valencia        Sun 14 Jul 2024 00:24:03 CEST
-Jerusalem       Sun 14 Jul 2024 01:24:03 IDT
-Moscow          Sun 14 Jul 2024 01:24:03 MSK
-Tehran          Sun 14 Jul 2024 01:54:03 +0330
-Delhi           Sun 14 Jul 2024 03:54:03 IST
-Kathmandu       Sun 14 Jul 2024 04:09:03 +0545
-Bangkok         Sun 14 Jul 2024 05:24:03 +07
-Guangzhou       Sun 14 Jul 2024 06:24:03 CST
-Tokyo           Sun 14 Jul 2024 07:24:03 JST
-Sydney          Sun 14 Jul 2024 08:24:03 AEST
-Auckland        Sun 14 Jul 2024 10:24:03 NZST
+UTC             Sat 13 Jul 2024 22:24:36 UTC
+Honolulu        Sat 13 Jul 2024 12:24:36 HST
+Anchorage       Sat 13 Jul 2024 14:24:36 AKDT
+Seattle         Sat 13 Jul 2024 15:24:36 PDT
+Denver          Sat 13 Jul 2024 16:24:36 MDT
+Springfield     Sat 13 Jul 2024 17:24:36 CDT
+Buffalo         Sat 13 Jul 2024 18:24:36 EDT
+Antigonish      Sat 13 Jul 2024 19:24:36 ADT
+Buenos Aires    Sat 13 Jul 2024 19:24:36 -03
+Sao Paulo       Sat 13 Jul 2024 19:24:36 -03
+London          Sat 13 Jul 2024 23:24:36 BST
+Valencia        Sun 14 Jul 2024 00:24:36 CEST
+Jerusalem       Sun 14 Jul 2024 01:24:36 IDT
+Moscow          Sun 14 Jul 2024 01:24:36 MSK
+Tehran          Sun 14 Jul 2024 01:54:36 +0330
+Delhi           Sun 14 Jul 2024 03:54:36 IST
+Kathmandu       Sun 14 Jul 2024 04:09:36 +0545
+Bangkok         Sun 14 Jul 2024 05:24:36 +07
+Guangzhou       Sun 14 Jul 2024 06:24:36 CST
+Tokyo           Sun 14 Jul 2024 07:24:36 JST
+Sydney          Sun 14 Jul 2024 08:24:36 AEST
+Auckland        Sun 14 Jul 2024 10:24:36 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -277,7 +277,11 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c
 </pre>
 
-[hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb)
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) 
+[hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb) [hanb](https://github.com/handyc/hanb)
 
 <pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
