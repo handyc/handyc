@@ -10,7 +10,6 @@ Su Mo Tu We Th Fr Sa
 21 22 23 24 25 26 27  
 28 29 30 31           
                       
- 2746 days until counter expiration
 Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in.
@@ -23,3 +22,4 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 data description test
 
 </details>
+ 2746 days until counter expiration
