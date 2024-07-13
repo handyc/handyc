@@ -9,9 +9,6 @@ Last login: Sat Jul 13 13:52:57 on ttys000
 You have mail.
 
 The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-clarity2:~ handyc$
 
 
 
