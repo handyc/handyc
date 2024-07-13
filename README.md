@@ -1,10 +1,5 @@
 ## Hello 😎
-
-Welcome to my code portfolio
-
 ![test](images/test.jpeg)
-
-
 <!--
 **handyc/handyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
