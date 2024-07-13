@@ -32,6 +32,7 @@ The default interactive shell is now zsh.
 </details> 
 <details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
+<pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 
 
@@ -80,6 +81,7 @@ The default interactive shell is now zsh.
 
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 
+</pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 </details>
 <details><summary>menu item test4</summary>
