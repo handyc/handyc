@@ -39,6 +39,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>``
+UTC             Sat 13 Jul 2024 19:39:05 UTC
+Honolulu        Sat 13 Jul 2024 09:39:05 HST
+Anchorage       Sat 13 Jul 2024 11:39:05 AKDT
+Seattle         Sat 13 Jul 2024 12:39:05 PDT
+Denver          Sat 13 Jul 2024 13:39:05 MDT
+Springfield     Sat 13 Jul 2024 14:39:05 CDT
+Buffalo         Sat 13 Jul 2024 15:39:05 EDT
+Antigonish      Sat 13 Jul 2024 16:39:05 ADT
+Buenos Aires    Sat 13 Jul 2024 16:39:05 -03
+Sao Paulo       Sat 13 Jul 2024 16:39:05 -03
+London          Sat 13 Jul 2024 20:39:05 BST
+Valencia        Sat 13 Jul 2024 21:39:05 CEST
+Jerusalem       Sat 13 Jul 2024 22:39:05 IDT
+Moscow          Sat 13 Jul 2024 22:39:05 MSK
+Tehran          Sat 13 Jul 2024 23:09:05 +0330
+Delhi           Sun 14 Jul 2024 01:09:05 IST
+Kathmandu       Sun 14 Jul 2024 01:24:05 +0545
+Bangkok         Sun 14 Jul 2024 02:39:05 +07
+Guangzhou       Sun 14 Jul 2024 03:39:05 CST
+Tokyo           Sun 14 Jul 2024 04:39:05 JST
+Sydney          Sun 14 Jul 2024 05:39:05 AEST
+Auckland        Sun 14 Jul 2024 07:39:05 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
