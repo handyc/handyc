@@ -63,28 +63,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 22:55:56 UTC
-Honolulu        Sat 13 Jul 2024 12:55:56 HST
-Anchorage       Sat 13 Jul 2024 14:55:56 AKDT
-Seattle         Sat 13 Jul 2024 15:55:56 PDT
-Denver          Sat 13 Jul 2024 16:55:56 MDT
-Springfield     Sat 13 Jul 2024 17:55:56 CDT
-Buffalo         Sat 13 Jul 2024 18:55:56 EDT
-Antigonish      Sat 13 Jul 2024 19:55:56 ADT
-Buenos Aires    Sat 13 Jul 2024 19:55:56 -03
-Sao Paulo       Sat 13 Jul 2024 19:55:56 -03
-London          Sat 13 Jul 2024 23:55:56 BST
-Valencia        Sun 14 Jul 2024 00:55:56 CEST
-Jerusalem       Sun 14 Jul 2024 01:55:56 IDT
-Moscow          Sun 14 Jul 2024 01:55:56 MSK
-Tehran          Sun 14 Jul 2024 02:25:56 +0330
-Delhi           Sun 14 Jul 2024 04:25:56 IST
-Kathmandu       Sun 14 Jul 2024 04:40:56 +0545
-Bangkok         Sun 14 Jul 2024 05:55:56 +07
-Guangzhou       Sun 14 Jul 2024 06:55:56 CST
-Tokyo           Sun 14 Jul 2024 07:55:56 JST
-Sydney          Sun 14 Jul 2024 08:55:56 AEST
-Auckland        Sun 14 Jul 2024 10:55:56 NZST
+UTC             Sat 13 Jul 2024 22:57:39 UTC
+Honolulu        Sat 13 Jul 2024 12:57:39 HST
+Anchorage       Sat 13 Jul 2024 14:57:39 AKDT
+Seattle         Sat 13 Jul 2024 15:57:39 PDT
+Denver          Sat 13 Jul 2024 16:57:39 MDT
+Springfield     Sat 13 Jul 2024 17:57:39 CDT
+Buffalo         Sat 13 Jul 2024 18:57:39 EDT
+Antigonish      Sat 13 Jul 2024 19:57:39 ADT
+Buenos Aires    Sat 13 Jul 2024 19:57:39 -03
+Sao Paulo       Sat 13 Jul 2024 19:57:39 -03
+London          Sat 13 Jul 2024 23:57:39 BST
+Valencia        Sun 14 Jul 2024 00:57:39 CEST
+Jerusalem       Sun 14 Jul 2024 01:57:39 IDT
+Moscow          Sun 14 Jul 2024 01:57:39 MSK
+Tehran          Sun 14 Jul 2024 02:27:39 +0330
+Delhi           Sun 14 Jul 2024 04:27:39 IST
+Kathmandu       Sun 14 Jul 2024 04:42:39 +0545
+Bangkok         Sun 14 Jul 2024 05:57:39 +07
+Guangzhou       Sun 14 Jul 2024 06:57:39 CST
+Tokyo           Sun 14 Jul 2024 07:57:39 JST
+Sydney          Sun 14 Jul 2024 08:57:39 AEST
+Auckland        Sun 14 Jul 2024 10:57:39 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -251,30 +251,30 @@ Normal text
 
 <details><summary>link matrix</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   bb   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b    b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 
-                      a   a   a   a   a   a   a   a   a                                    a   a   a   a   a   a   a   a   a                               a   a   a   a   a   a   a   a   a                 
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c    c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c 
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   cc   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c    c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c 
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   cc   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c    c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c 
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   cc   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c    c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c 
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   cc   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c    c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c 
-                      d   d   d   d  RRR  d   d   d   d                                    d   d   d   d  RRR  d   d   d   d                               d   d   d   d  RRR  d   d   d   d                 
-  b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b    b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b 
-b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   bb   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   
-  b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b    b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b 
-b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   bb   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   
-  b   b   b   b   b   b   b                       b   b   b   b   b   b   b    b   b   b   b   b                       b   b   b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b 
-b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   bb   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   
-  b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b    b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b 
-b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   bb   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b    b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 
-                      a   a   a   a   a   a   a   a   a                                    a   a   a   a   a   a   a   a   a                               a   a   a   a   a   a   a   a   a                 
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  c   c   c     a   a   a   a   a   a   a   a     c   c   c   c  c   c   c     a   a   a   a   a   a   a   a     c   c   c   c
+<pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   bb   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b    b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b 
+                      a   a   a   a   a   a   a   a   a                                    a   a   a   a   a   a   a   a   a                           a   a   a   a   a   a   a   a   a             
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c    c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c 
+c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   cc   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   
+  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c    c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c 
+c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   cc   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   
+  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c    c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c 
+c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   cc   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   
+  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c    c   c   c   c     d   d   dRRRd   d   d     c   c   c   c  c   c   c   c     d   d   dRRRd   d   d     c   c   c   c
+c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   cc   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   
+  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c    c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c 
+                      d   d   d   d  RRR  d   d   d   d                                    d   d   d   d  RRR  d   d   d   d                           d   d   d   d  RRR  d   d   d   d             
+  b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b    b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b 
+b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   bb   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   
+  b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b    b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b 
+b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   bb   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   
+  b   b   b   b   b   b   b                       b   b   b   b   b   b   b    b   b   b   b   b                       b   b   b   b   b   b   b   b   b   b                       b   b   b   b   b 
+b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   bb   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   
+  b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b    b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b 
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   bb   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b    b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b 
+                      a   a   a   a   a   a   a   a   a                                    a   a   a   a   a   a   a   a   a                           a   a   a   a   a   a   a   a   a             
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  c   c   c     a   a   a   a   a   a   a   a     c   c   c  c   c   c     a   a   a   a   a   a   a   a     c   c   c
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
