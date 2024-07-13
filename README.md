@@ -1,5 +1,5 @@
 ## Hello 😎
-![banner](images/sunset.jpeg)
+![banner](images/sunset.jpg)
 <!--
 **handyc/handyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
