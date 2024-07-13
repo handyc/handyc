@@ -254,6 +254,7 @@ Normal text
 </details> 
 -->
 
+<!---
 <details><summary>link test</summary>
 <pre>
     ├── <a href="https://stackoverflow.com/">t_databases</a>  
@@ -263,6 +264,7 @@ Normal text
         └── <a href="https://stackoverflow.com/">packages-Go.md</a>  
 </pre>
 </details>
+-->
 
 <!---
 <details><summary>menu item test5</summary>
