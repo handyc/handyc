@@ -16,10 +16,10 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget ur
 Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in.
 
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
-<details><summary>Use Cases</summary>
 
-Klurp was initially created with a specific need for locating and
-interacting with text patterns in Sanskrit, Tibetan and Chinese
-Buddhist texts.
+
+<details><summary>menu item test</summary>
+
+data description test
 
 </details>
