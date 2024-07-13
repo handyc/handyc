@@ -2,7 +2,9 @@
 
 Welcome to my code portfolio
 
-![test image](images/photo_2024-07-13 11.26.05.jpeg)
+![test image](https://raw.githubusercontent.com/handyc/handyc/images/photo_2024-07-13 11.26.05.jpeg)
+
+
 
 <!--
 **handyc/handyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
