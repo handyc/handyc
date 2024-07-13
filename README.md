@@ -2,8 +2,7 @@
 
 Welcome to my code portfolio
 
-![test]("images/photo_2024-07-13 11.26.05.jpeg")
-
+![test]("images/test.jpeg")
 
 
 <!--
