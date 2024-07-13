@@ -63,28 +63,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 22:21:10 UTC
-Honolulu        Sat 13 Jul 2024 12:21:10 HST
-Anchorage       Sat 13 Jul 2024 14:21:10 AKDT
-Seattle         Sat 13 Jul 2024 15:21:10 PDT
-Denver          Sat 13 Jul 2024 16:21:10 MDT
-Springfield     Sat 13 Jul 2024 17:21:10 CDT
-Buffalo         Sat 13 Jul 2024 18:21:10 EDT
-Antigonish      Sat 13 Jul 2024 19:21:10 ADT
-Buenos Aires    Sat 13 Jul 2024 19:21:10 -03
-Sao Paulo       Sat 13 Jul 2024 19:21:10 -03
-London          Sat 13 Jul 2024 23:21:10 BST
-Valencia        Sun 14 Jul 2024 00:21:10 CEST
-Jerusalem       Sun 14 Jul 2024 01:21:10 IDT
-Moscow          Sun 14 Jul 2024 01:21:10 MSK
-Tehran          Sun 14 Jul 2024 01:51:10 +0330
-Delhi           Sun 14 Jul 2024 03:51:10 IST
-Kathmandu       Sun 14 Jul 2024 04:06:10 +0545
-Bangkok         Sun 14 Jul 2024 05:21:10 +07
-Guangzhou       Sun 14 Jul 2024 06:21:10 CST
-Tokyo           Sun 14 Jul 2024 07:21:10 JST
-Sydney          Sun 14 Jul 2024 08:21:10 AEST
-Auckland        Sun 14 Jul 2024 10:21:10 NZST
+UTC             Sat 13 Jul 2024 22:22:11 UTC
+Honolulu        Sat 13 Jul 2024 12:22:11 HST
+Anchorage       Sat 13 Jul 2024 14:22:11 AKDT
+Seattle         Sat 13 Jul 2024 15:22:11 PDT
+Denver          Sat 13 Jul 2024 16:22:11 MDT
+Springfield     Sat 13 Jul 2024 17:22:11 CDT
+Buffalo         Sat 13 Jul 2024 18:22:11 EDT
+Antigonish      Sat 13 Jul 2024 19:22:11 ADT
+Buenos Aires    Sat 13 Jul 2024 19:22:11 -03
+Sao Paulo       Sat 13 Jul 2024 19:22:11 -03
+London          Sat 13 Jul 2024 23:22:11 BST
+Valencia        Sun 14 Jul 2024 00:22:11 CEST
+Jerusalem       Sun 14 Jul 2024 01:22:11 IDT
+Moscow          Sun 14 Jul 2024 01:22:11 MSK
+Tehran          Sun 14 Jul 2024 01:52:11 +0330
+Delhi           Sun 14 Jul 2024 03:52:11 IST
+Kathmandu       Sun 14 Jul 2024 04:07:11 +0545
+Bangkok         Sun 14 Jul 2024 05:22:11 +07
+Guangzhou       Sun 14 Jul 2024 06:22:11 CST
+Tokyo           Sun 14 Jul 2024 07:22:11 JST
+Sydney          Sun 14 Jul 2024 08:22:11 AEST
+Auckland        Sun 14 Jul 2024 10:22:11 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -274,54 +274,11 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   cb   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
-                      a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
-                      d   d   d   d  RRR  d   d   d   d                      
-  b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
-b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
-  b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b  
-b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
-  b   b   b   b   b   b   b                       b   b   b   b   b   b   b  
-b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
-  b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b  
-b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
-                      a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   cb   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
-                      a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
-  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
-c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
-  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
-c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
-  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
-c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
-  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
-                      d   d   d   d  RRR  d   d   d   d                      
-  b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
-b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
-  b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b  
-b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
-  b   b   b   b   b   b   b                       b   b   b   b   b   b   b  
-b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
-  b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b  
-b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
-                      a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c
 </pre>
+
+[hanb](https://github.com/handyc/hanb)
+
 <pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
@@ -348,8 +305,6 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-
-[hanb](https://github.com/handyc/hanb)
 
 [hanb](https://github.com/handyc/hanb)
 
