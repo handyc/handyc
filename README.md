@@ -36,7 +36,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 [bri](https://github.com/handyc/bri)
 
 </details>
-<details><summary>hclock</summary>
+<details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 Auckland       Sun 14 Jul 2024 03:34:26 NZST  (UTC+1200)
@@ -68,6 +68,8 @@ Sydney         Sun 14 Jul 2024 01:34:26 AEST  (UTC+1000)
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details> 
+
+[wnow](https://github.com/handyc/wnow)
 
 <details><summary>chart</summary>
 
