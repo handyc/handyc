@@ -11,6 +11,7 @@ k
 </details> 
 <details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
+<pre>
    b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
 
  b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
@@ -59,6 +60,7 @@ Bye! c   c   c   c   c   c     d   d   d   d   d     c   c   c   c   c   c   c
 
  b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
 
+</pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details>
