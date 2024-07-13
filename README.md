@@ -12,13 +12,6 @@ k
 <details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
-  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
-                      a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
-c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
-
-
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
@@ -43,12 +36,6 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
-
-
-
-   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
-   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
-   b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
