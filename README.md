@@ -7,7 +7,6 @@ data description test
 <details><summary>menu item test2</summary>
 <sup>
 2746
-````
      July 2024
 Su Mo Tu We Th Fr Sa
     1  2  3  4  5  6
@@ -20,7 +19,6 @@ Su Mo Tu We Th Fr Sa
 (choco) clarity2:scripts handyc$ nano handycgithubupdatereadme
 (choco) clarity2:scripts handyc$ ./handycgithubupdatereadme
 2746
-````
      July 2024
 Su Mo Tu We Th Fr Sa
     1  2  3  4  5  6
