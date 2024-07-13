@@ -74,7 +74,7 @@ Markdown | Less | Pretty
 
 </details> 
 <details><summary>nested</summary>
-<pre><details><summary>hanb/bri</summary>
+<details><summary>hanb/bri</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><pre>
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
@@ -189,8 +189,6 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details>
-
-</pre>
 
 </details> 
 
