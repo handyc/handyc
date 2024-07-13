@@ -6,9 +6,7 @@
 DH Tools: [dhtools](https://dhtools.org)
 
 data description test
-</details><details><summary>menu item test2</summary>
-
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test2</summary><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -37,8 +35,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -67,8 +64,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -97,8 +93,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -127,8 +122,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -157,8 +151,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -187,8 +180,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -217,8 +209,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -247,8 +238,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -277,8 +267,7 @@ data description test
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-<details><summary>menu item test3</summary>
+</details><details><summary>menu item test3</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 00000000000000000000000000000000000000000000000000000000000000000000000000000000
