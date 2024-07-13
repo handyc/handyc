@@ -1,5 +1,6 @@
 ![banner](images/sunset.jpg)
 
+
 <details><summary>hanb/bri</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
@@ -189,8 +190,7 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
-</pre>
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details>
