@@ -3,10 +3,7 @@
 
 <details><summary>menu item test</summary>
 
-data description test
-
-
-[dhtools](https://dhtools.org)
+DH Tools: [dhtools](https://dhtools.org)
 
 data description test
 </details> 
