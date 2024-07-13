@@ -39,28 +39,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 20:09:11 UTC
-Honolulu        Sat 13 Jul 2024 10:09:11 HST
-Anchorage       Sat 13 Jul 2024 12:09:11 AKDT
-Seattle         Sat 13 Jul 2024 13:09:11 PDT
-Denver          Sat 13 Jul 2024 14:09:11 MDT
-Springfield     Sat 13 Jul 2024 15:09:11 CDT
-Buffalo         Sat 13 Jul 2024 16:09:11 EDT
-Antigonish      Sat 13 Jul 2024 17:09:11 ADT
-Buenos Aires    Sat 13 Jul 2024 17:09:11 -03
-Sao Paulo       Sat 13 Jul 2024 17:09:11 -03
-London          Sat 13 Jul 2024 21:09:11 BST
-Valencia        Sat 13 Jul 2024 22:09:11 CEST
-Jerusalem       Sat 13 Jul 2024 23:09:11 IDT
-Moscow          Sat 13 Jul 2024 23:09:11 MSK
-Tehran          Sat 13 Jul 2024 23:39:11 +0330
-Delhi           Sun 14 Jul 2024 01:39:11 IST
-Kathmandu       Sun 14 Jul 2024 01:54:11 +0545
-Bangkok         Sun 14 Jul 2024 03:09:11 +07
-Guangzhou       Sun 14 Jul 2024 04:09:11 CST
-Tokyo           Sun 14 Jul 2024 05:09:11 JST
-Sydney          Sun 14 Jul 2024 06:09:11 AEST
-Auckland        Sun 14 Jul 2024 08:09:11 NZST
+UTC             Sat 13 Jul 2024 20:11:00 UTC
+Honolulu        Sat 13 Jul 2024 10:11:00 HST
+Anchorage       Sat 13 Jul 2024 12:11:00 AKDT
+Seattle         Sat 13 Jul 2024 13:11:00 PDT
+Denver          Sat 13 Jul 2024 14:11:00 MDT
+Springfield     Sat 13 Jul 2024 15:11:00 CDT
+Buffalo         Sat 13 Jul 2024 16:11:00 EDT
+Antigonish      Sat 13 Jul 2024 17:11:00 ADT
+Buenos Aires    Sat 13 Jul 2024 17:11:00 -03
+Sao Paulo       Sat 13 Jul 2024 17:11:00 -03
+London          Sat 13 Jul 2024 21:11:00 BST
+Valencia        Sat 13 Jul 2024 22:11:00 CEST
+Jerusalem       Sat 13 Jul 2024 23:11:00 IDT
+Moscow          Sat 13 Jul 2024 23:11:00 MSK
+Tehran          Sat 13 Jul 2024 23:41:00 +0330
+Delhi           Sun 14 Jul 2024 01:41:00 IST
+Kathmandu       Sun 14 Jul 2024 01:56:00 +0545
+Bangkok         Sun 14 Jul 2024 03:11:00 +07
+Guangzhou       Sun 14 Jul 2024 04:11:00 CST
+Tokyo           Sun 14 Jul 2024 05:11:00 JST
+Sydney          Sun 14 Jul 2024 06:11:00 AEST
+Auckland        Sun 14 Jul 2024 08:11:00 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
