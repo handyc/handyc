@@ -63,28 +63,28 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 13 Jul 2024 22:16:29 UTC
-Honolulu        Sat 13 Jul 2024 12:16:29 HST
-Anchorage       Sat 13 Jul 2024 14:16:29 AKDT
-Seattle         Sat 13 Jul 2024 15:16:29 PDT
-Denver          Sat 13 Jul 2024 16:16:29 MDT
-Springfield     Sat 13 Jul 2024 17:16:29 CDT
-Buffalo         Sat 13 Jul 2024 18:16:29 EDT
-Antigonish      Sat 13 Jul 2024 19:16:29 ADT
-Buenos Aires    Sat 13 Jul 2024 19:16:29 -03
-Sao Paulo       Sat 13 Jul 2024 19:16:29 -03
-London          Sat 13 Jul 2024 23:16:29 BST
-Valencia        Sun 14 Jul 2024 00:16:29 CEST
-Jerusalem       Sun 14 Jul 2024 01:16:29 IDT
-Moscow          Sun 14 Jul 2024 01:16:29 MSK
-Tehran          Sun 14 Jul 2024 01:46:29 +0330
-Delhi           Sun 14 Jul 2024 03:46:29 IST
-Kathmandu       Sun 14 Jul 2024 04:01:29 +0545
-Bangkok         Sun 14 Jul 2024 05:16:29 +07
-Guangzhou       Sun 14 Jul 2024 06:16:29 CST
-Tokyo           Sun 14 Jul 2024 07:16:29 JST
-Sydney          Sun 14 Jul 2024 08:16:29 AEST
-Auckland        Sun 14 Jul 2024 10:16:29 NZST
+UTC             Sat 13 Jul 2024 22:18:07 UTC
+Honolulu        Sat 13 Jul 2024 12:18:07 HST
+Anchorage       Sat 13 Jul 2024 14:18:07 AKDT
+Seattle         Sat 13 Jul 2024 15:18:07 PDT
+Denver          Sat 13 Jul 2024 16:18:07 MDT
+Springfield     Sat 13 Jul 2024 17:18:07 CDT
+Buffalo         Sat 13 Jul 2024 18:18:07 EDT
+Antigonish      Sat 13 Jul 2024 19:18:07 ADT
+Buenos Aires    Sat 13 Jul 2024 19:18:07 -03
+Sao Paulo       Sat 13 Jul 2024 19:18:07 -03
+London          Sat 13 Jul 2024 23:18:07 BST
+Valencia        Sun 14 Jul 2024 00:18:07 CEST
+Jerusalem       Sun 14 Jul 2024 01:18:07 IDT
+Moscow          Sun 14 Jul 2024 01:18:07 MSK
+Tehran          Sun 14 Jul 2024 01:48:07 +0330
+Delhi           Sun 14 Jul 2024 03:48:07 IST
+Kathmandu       Sun 14 Jul 2024 04:03:07 +0545
+Bangkok         Sun 14 Jul 2024 05:18:07 +07
+Guangzhou       Sun 14 Jul 2024 06:18:07 CST
+Tokyo           Sun 14 Jul 2024 07:18:07 JST
+Sydney          Sun 14 Jul 2024 08:18:07 AEST
+Auckland        Sun 14 Jul 2024 10:18:07 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -249,9 +249,55 @@ Normal text
 
 
 
-<details><summary>hanb/bri</summary>
+<details><summary>link matrix</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
+                      a   a   a   a   a   a   a   a   a                      
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
+c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
+  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
+c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
+  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
+c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
+  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
+c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
+  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
+                      d   d   d   d  RRR  d   d   d   d                      
+  b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
+b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
+  b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b  
+b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
+  b   b   b   b   b   b   b                       b   b   b   b   b   b   b  
+b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
+  b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b  
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
+                      a   a   a   a   a   a   a   a   a                      
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   cb   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
+                      a   a   a   a   a   a   a   a   a                      
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
+c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c
+  c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c  
+c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c
+  c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c  
+c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c
+  c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c  
+c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c
+  c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c  
+                      d   d   d   d  RRR  d   d   d   d                      
+  b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b  
+b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b
+  b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b  
+b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b
+  b   b   b   b   b   b   b                       b   b   b   b   b   b   b  
+b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
+  b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b  
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+  b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
+                      a   a   a   a   a   a   a   a   a                      
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   cb   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
