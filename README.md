@@ -192,8 +192,6 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 
 </details> 
 
-
-
 <!---
 <details><summary>menu item test5</summary>
 
@@ -224,7 +222,7 @@ Su Mo Tu We Th Fr Sa
 21 22 23 24 25 26 27  
 28 29 30 31           
                       
-````
+ ````
      July 2024        
 Su Mo Tu We Th Fr Sa  
     1  2  3  4  5  6  
