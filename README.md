@@ -1,19 +1,9 @@
 ## Hello 😎
 ![banner](images/sunset.jpg)
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
-
-
 <details><summary>menu item test</summary>
-
 data description test
-
-</details>
- 2746 days until counter expiration
+</details>2746 days until counter expiration
 ````
      July 2024        
 Su Mo Tu We Th Fr Sa  
