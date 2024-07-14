@@ -395,34 +395,36 @@ Markdown | Less | Pretty
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sun 14 Jul 2024 02:55:02 UTC
-Honolulu        Sat 13 Jul 2024 16:55:02 HST
-Anchorage       Sat 13 Jul 2024 18:55:02 AKDT
-Seattle         Sat 13 Jul 2024 19:55:02 PDT
-Denver          Sat 13 Jul 2024 20:55:02 MDT
-Springfield     Sat 13 Jul 2024 21:55:02 CDT
-Buffalo         Sat 13 Jul 2024 22:55:02 EDT
-Antigonish      Sat 13 Jul 2024 23:55:02 ADT
-Buenos Aires    Sat 13 Jul 2024 23:55:02 -03
-Sao Paulo       Sat 13 Jul 2024 23:55:02 -03
-London          Sun 14 Jul 2024 03:55:02 BST
-Valencia        Sun 14 Jul 2024 04:55:02 CEST
-Jerusalem       Sun 14 Jul 2024 05:55:02 IDT
-Moscow          Sun 14 Jul 2024 05:55:02 MSK
-Tehran          Sun 14 Jul 2024 06:25:02 +0330
-Delhi           Sun 14 Jul 2024 08:25:02 IST
-Kathmandu       Sun 14 Jul 2024 08:40:02 +0545
-Bangkok         Sun 14 Jul 2024 09:55:02 +07
-Guangzhou       Sun 14 Jul 2024 10:55:02 CST
-Tokyo           Sun 14 Jul 2024 11:55:02 JST
-Sydney          Sun 14 Jul 2024 12:55:02 AEST
-Auckland        Sun 14 Jul 2024 14:55:02 NZST
+UTC             Sun 14 Jul 2024 02:55:36 UTC
+Honolulu        Sat 13 Jul 2024 16:55:36 HST
+Anchorage       Sat 13 Jul 2024 18:55:36 AKDT
+Seattle         Sat 13 Jul 2024 19:55:36 PDT
+Denver          Sat 13 Jul 2024 20:55:36 MDT
+Springfield     Sat 13 Jul 2024 21:55:36 CDT
+Buffalo         Sat 13 Jul 2024 22:55:36 EDT
+Antigonish      Sat 13 Jul 2024 23:55:36 ADT
+Buenos Aires    Sat 13 Jul 2024 23:55:36 -03
+Sao Paulo       Sat 13 Jul 2024 23:55:36 -03
+London          Sun 14 Jul 2024 03:55:36 BST
+Valencia        Sun 14 Jul 2024 04:55:36 CEST
+Jerusalem       Sun 14 Jul 2024 05:55:36 IDT
+Moscow          Sun 14 Jul 2024 05:55:36 MSK
+Tehran          Sun 14 Jul 2024 06:25:36 +0330
+Delhi           Sun 14 Jul 2024 08:25:36 IST
+Kathmandu       Sun 14 Jul 2024 08:40:36 +0545
+Bangkok         Sun 14 Jul 2024 09:55:36 +07
+Guangzhou       Sun 14 Jul 2024 10:55:36 CST
+Tokyo           Sun 14 Jul 2024 11:55:36 JST
+Sydney          Sun 14 Jul 2024 12:55:36 AEST
+Auckland        Sun 14 Jul 2024 14:55:36 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
 
 [wnow](https://github.com/handyc/wnow)
+
+</details>
+
 
 <!--- 
 <details><summary>nested</summary>
