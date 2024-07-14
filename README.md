@@ -425,16 +425,16 @@ a
 
 <details><summary>world</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>-       -       a       -       -  Africa
- -       -       -       -       -      North America
-     K       K       K       K       K  South America
- a       a       a       a       a      Europe
-     K       K       K       K       K  Asia
- K       K       K       K       K      Antarctica
-     a       a       a       a       a  Australia/Oceania
- K       K       K       K       K     
-     -       -       -       -       - 
- -       -       -       a       -
+<pre>-       -       a       -       -.  Africa            
+ -       -       -       -       -    .  North America      
+     K       K       K       K       K.  South America      
+ a       a       a       a       a    .  Europe             
+     K       K       K       K       K.  Asia               
+ K       K       K       K       K    .  Antarctica         
+     a       a       a       a       a.  Australia/Oceania  
+ K       K       K       K       K    . 
+     -       -       -       -       -. 
+ -       -       -       a       -    .
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sun 14 Jul 2024 16:25:52 UTC
-Honolulu        Sun 14 Jul 2024 06:25:52 HST
-Anchorage       Sun 14 Jul 2024 08:25:52 AKDT
-Seattle         Sun 14 Jul 2024 09:25:52 PDT
-Denver          Sun 14 Jul 2024 10:25:52 MDT
-Springfield     Sun 14 Jul 2024 11:25:52 CDT
-Buffalo         Sun 14 Jul 2024 12:25:52 EDT
-Antigonish      Sun 14 Jul 2024 13:25:52 ADT
-Buenos Aires    Sun 14 Jul 2024 13:25:52 -03
-Sao Paulo       Sun 14 Jul 2024 13:25:52 -03
-London          Sun 14 Jul 2024 17:25:52 BST
-Valencia        Sun 14 Jul 2024 18:25:52 CEST
-Jerusalem       Sun 14 Jul 2024 19:25:52 IDT
-Moscow          Sun 14 Jul 2024 19:25:52 MSK
-Tehran          Sun 14 Jul 2024 19:55:52 +0330
-Delhi           Sun 14 Jul 2024 21:55:52 IST
-Kathmandu       Sun 14 Jul 2024 22:10:52 +0545
-Bangkok         Sun 14 Jul 2024 23:25:52 +07
-Guangzhou       Mon 15 Jul 2024 00:25:52 CST
-Tokyo           Mon 15 Jul 2024 01:25:52 JST
-Sydney          Mon 15 Jul 2024 02:25:52 AEST
-Auckland        Mon 15 Jul 2024 04:25:52 NZST
+UTC             Sun 14 Jul 2024 16:51:58 UTC
+Honolulu        Sun 14 Jul 2024 06:51:58 HST
+Anchorage       Sun 14 Jul 2024 08:51:58 AKDT
+Seattle         Sun 14 Jul 2024 09:51:58 PDT
+Denver          Sun 14 Jul 2024 10:51:58 MDT
+Springfield     Sun 14 Jul 2024 11:51:58 CDT
+Buffalo         Sun 14 Jul 2024 12:51:58 EDT
+Antigonish      Sun 14 Jul 2024 13:51:58 ADT
+Buenos Aires    Sun 14 Jul 2024 13:51:58 -03
+Sao Paulo       Sun 14 Jul 2024 13:51:58 -03
+London          Sun 14 Jul 2024 17:51:58 BST
+Valencia        Sun 14 Jul 2024 18:51:58 CEST
+Jerusalem       Sun 14 Jul 2024 19:51:58 IDT
+Moscow          Sun 14 Jul 2024 19:51:58 MSK
+Tehran          Sun 14 Jul 2024 20:21:58 +0330
+Delhi           Sun 14 Jul 2024 22:21:58 IST
+Kathmandu       Sun 14 Jul 2024 22:36:58 +0545
+Bangkok         Sun 14 Jul 2024 23:51:58 +07
+Guangzhou       Mon 15 Jul 2024 00:51:58 CST
+Tokyo           Mon 15 Jul 2024 01:51:58 JST
+Sydney          Mon 15 Jul 2024 02:51:58 AEST
+Auckland        Mon 15 Jul 2024 04:51:58 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
