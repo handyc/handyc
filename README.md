@@ -1,6 +1,242 @@
 ![banner](images/sunset.jpg)
 
 
+
+
+<details><summary>link matrix</summary>
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
+<pre>
+c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
+  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
+c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
+  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
+c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
+  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
+c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
+  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
+c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
+                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
+b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
+b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
+  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
+b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
+  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
+b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
+t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
+c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
+  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
+c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
+  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
+c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
+  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
+c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
+  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
+c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
+                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
+b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
+b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
+  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
+b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
+  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
+b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
+t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
+c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
+  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
+c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
+  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
+c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
+  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
+c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
+  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
+c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
+                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
+b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
+b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
+  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
+b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
+  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
+b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
+t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
+c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
+  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
+c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
+  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
+c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
+  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
+c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
+  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
+c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
+                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
+b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
+b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
+  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
+b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
+  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
+b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
+t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
+</pre>
+</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+
+[00](https://github.com/handyc/hanb) 
+[01](https://github.com/handyc/hanb) 
+[02](https://github.com/handyc/hanb) 
+[03](https://github.com/handyc/hanb) 
+[04](https://github.com/handyc/hanb) 
+[05](https://github.com/handyc/hanb) 
+[06](https://github.com/handyc/hanb) 
+[07](https://github.com/handyc/hanb) 
+[08](https://github.com/handyc/hanb) 
+[09](https://github.com/handyc/hanb) 
+[10](https://github.com/handyc/hanb) 
+[11](https://github.com/handyc/hanb) 
+[12](https://github.com/handyc/hanb) 
+[13](https://github.com/handyc/hanb) 
+[14](https://github.com/handyc/hanb) 
+[15](https://github.com/handyc/hanb) 
+
+</details>
+
+
+
 <details><summary>hanb/bri</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
@@ -366,242 +602,6 @@ Normal text
 
 </details> 
 -->4937 days until counter expiration (2038-01-19)
-
-
-
-
-<details><summary>link matrix</summary>
-<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>
-c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
-  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
-c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
-  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
-c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
-  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
-c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
-  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
-c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
-                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
-b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
-  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
-b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
-  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
-b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
-  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
-b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
-t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
-c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
-  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
-c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
-  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
-c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
-  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
-c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
-  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
-c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
-                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
-b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
-  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
-b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
-  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
-b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
-  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
-b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
-t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
-c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
-  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
-c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
-  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
-c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
-  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
-c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
-  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
-c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
-                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
-b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
-  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
-b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
-  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
-b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
-  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
-b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
-t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
-c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
-  c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c   c   c   c   c     a   a   a   R   L   a   a     c   c 
-c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   c   c   c   c   c     a   a   RRRRR L a   a     c   c   
-  c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c   c   c   c   c   c     a   a  RRR  L   a     c   c   c 
-c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   c   c   c   c   c   c         RRRRRLLL      c   c   c   
-  c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c   c   c   c   c   c     d   d RRRRR L   d     c   c   c 
-c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   c   c   c   c   c     d   d   dRRRd   d   d     c   c   
-  c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c   c   c   c   c     d   d   d  RRR  d   d   d     c   c 
-c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   c   c   c   c     d   d   d   dRRRd   d   d   d     c   
-                d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d                       d   d   d   d  RRR  d   d   d   d       
-b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   b   b   b   b     d   d   d   RRRRR   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
-  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
-b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
-  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
-b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
-  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
-b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
-t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
-</pre>
-</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-
-[00](https://github.com/handyc/hanb) 
-[01](https://github.com/handyc/hanb) 
-[02](https://github.com/handyc/hanb) 
-[03](https://github.com/handyc/hanb) 
-[04](https://github.com/handyc/hanb) 
-[05](https://github.com/handyc/hanb) 
-[06](https://github.com/handyc/hanb) 
-[07](https://github.com/handyc/hanb) 
-[08](https://github.com/handyc/hanb) 
-[09](https://github.com/handyc/hanb) 
-[10](https://github.com/handyc/hanb) 
-[11](https://github.com/handyc/hanb) 
-[12](https://github.com/handyc/hanb) 
-[13](https://github.com/handyc/hanb) 
-[14](https://github.com/handyc/hanb) 
-[15](https://github.com/handyc/hanb) 
-
-</details>
-
 
 ````````
      July 2024            January 2038      
