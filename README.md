@@ -65,9 +65,11 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
 </pre>
+</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 [hanb](https://github.com/handyc/hanb)
 
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>               
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
