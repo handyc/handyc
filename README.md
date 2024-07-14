@@ -390,33 +390,67 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 </details>
+
+<details><summary>world</summary>
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
+<pre>
+UTC             Sun 14 Jul 2024 15:58:04 UTC
+Honolulu        Sun 14 Jul 2024 05:58:04 HST
+Anchorage       Sun 14 Jul 2024 07:58:04 AKDT
+Seattle         Sun 14 Jul 2024 08:58:04 PDT
+Denver          Sun 14 Jul 2024 09:58:04 MDT
+Springfield     Sun 14 Jul 2024 10:58:04 CDT
+Buffalo         Sun 14 Jul 2024 11:58:04 EDT
+Antigonish      Sun 14 Jul 2024 12:58:04 ADT
+Buenos Aires    Sun 14 Jul 2024 12:58:04 -03
+Sao Paulo       Sun 14 Jul 2024 12:58:04 -03
+London          Sun 14 Jul 2024 16:58:04 BST
+Valencia        Sun 14 Jul 2024 17:58:04 CEST
+Jerusalem       Sun 14 Jul 2024 18:58:04 IDT
+Moscow          Sun 14 Jul 2024 18:58:04 MSK
+Tehran          Sun 14 Jul 2024 19:28:04 +0330
+Delhi           Sun 14 Jul 2024 21:28:04 IST
+Kathmandu       Sun 14 Jul 2024 21:43:04 +0545
+Bangkok         Sun 14 Jul 2024 22:58:04 +07
+Guangzhou       Sun 14 Jul 2024 23:58:04 CST
+Tokyo           Mon 15 Jul 2024 00:58:04 JST
+Sydney          Mon 15 Jul 2024 01:58:04 AEST
+Auckland        Mon 15 Jul 2024 03:58:04 NZST
+
+</pre>
+</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
+
+a
+
+</details>
+
 -->
 
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sun 14 Jul 2024 15:41:12 UTC
-Honolulu        Sun 14 Jul 2024 05:41:12 HST
-Anchorage       Sun 14 Jul 2024 07:41:12 AKDT
-Seattle         Sun 14 Jul 2024 08:41:12 PDT
-Denver          Sun 14 Jul 2024 09:41:12 MDT
-Springfield     Sun 14 Jul 2024 10:41:12 CDT
-Buffalo         Sun 14 Jul 2024 11:41:12 EDT
-Antigonish      Sun 14 Jul 2024 12:41:12 ADT
-Buenos Aires    Sun 14 Jul 2024 12:41:12 -03
-Sao Paulo       Sun 14 Jul 2024 12:41:12 -03
-London          Sun 14 Jul 2024 16:41:12 BST
-Valencia        Sun 14 Jul 2024 17:41:12 CEST
-Jerusalem       Sun 14 Jul 2024 18:41:12 IDT
-Moscow          Sun 14 Jul 2024 18:41:12 MSK
-Tehran          Sun 14 Jul 2024 19:11:12 +0330
-Delhi           Sun 14 Jul 2024 21:11:12 IST
-Kathmandu       Sun 14 Jul 2024 21:26:12 +0545
-Bangkok         Sun 14 Jul 2024 22:41:12 +07
-Guangzhou       Sun 14 Jul 2024 23:41:12 CST
-Tokyo           Mon 15 Jul 2024 00:41:12 JST
-Sydney          Mon 15 Jul 2024 01:41:12 AEST
-Auckland        Mon 15 Jul 2024 03:41:12 NZST
+UTC             Sun 14 Jul 2024 15:58:04 UTC
+Honolulu        Sun 14 Jul 2024 05:58:04 HST
+Anchorage       Sun 14 Jul 2024 07:58:04 AKDT
+Seattle         Sun 14 Jul 2024 08:58:04 PDT
+Denver          Sun 14 Jul 2024 09:58:04 MDT
+Springfield     Sun 14 Jul 2024 10:58:04 CDT
+Buffalo         Sun 14 Jul 2024 11:58:04 EDT
+Antigonish      Sun 14 Jul 2024 12:58:04 ADT
+Buenos Aires    Sun 14 Jul 2024 12:58:04 -03
+Sao Paulo       Sun 14 Jul 2024 12:58:04 -03
+London          Sun 14 Jul 2024 16:58:04 BST
+Valencia        Sun 14 Jul 2024 17:58:04 CEST
+Jerusalem       Sun 14 Jul 2024 18:58:04 IDT
+Moscow          Sun 14 Jul 2024 18:58:04 MSK
+Tehran          Sun 14 Jul 2024 19:28:04 +0330
+Delhi           Sun 14 Jul 2024 21:28:04 IST
+Kathmandu       Sun 14 Jul 2024 21:43:04 +0545
+Bangkok         Sun 14 Jul 2024 22:58:04 +07
+Guangzhou       Sun 14 Jul 2024 23:58:04 CST
+Tokyo           Mon 15 Jul 2024 00:58:04 JST
+Sydney          Mon 15 Jul 2024 01:58:04 AEST
+Auckland        Mon 15 Jul 2024 03:58:04 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
