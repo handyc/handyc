@@ -424,26 +424,16 @@ a
 
 <details><summary>world</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>c   c   c   c     a   a   a   a   a   a   a   a     c   
-  c   c   c   c     a   a   a   a   a   a   a     c   c 
-c   c   c   c   c     a   a   a   a   a   a     c   c   
-  c   c   c   c   c     a   a   a   a   a     c   c   c 
-c   c   c   c   c   c                       c   c   c   
-  c   c   c   c   c     d   d   d   d   d     c   c   c 
-c   c   c   c   c     d   d   d   d   d   d     c   c   
-  c   c   c   c     d   d   d   d   d   d   d     c   c 
-c   c   c   c     d   d   d   d   d   d   d   d     c   
-                d   d   d   d8  d   d   d   d   d       
-b   b   b   b     d   d   d8  d   d   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   
-  b   b   b   b   b     d   d   d   d   d     b   b   b 
-b   b   b   b   b   b                       b   b   b   
-  b   b   b   b   b     a   a   a   a   a     b   b   b 
-b   b   b   b   b     a   a   a   a   a   a     b   b   
-  b   b   b   b     a   a   a   a   a   a   a     b   b 
-b   b   b   b     a   a   a   a   a   a   a   a     b   
-t               a   a   a   a   a   a   a   a   a      s
+<pre>-       -       a       -       -  Africa
+ -       -       -       -       -      North America
+     K       K       K       K       K  South America
+ a       a       a       a       a      Europe
+     K       K       K       K       K  Asia
+ K       K       K       K       K      Antarctica
+     a       a       a       a       a  Australia/Oceania
+ K       K       K       K       K     
+     -       -       -       -       - 
+ -       -       -       a       -
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
@@ -455,28 +445,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sun 14 Jul 2024 16:10:08 UTC
-Honolulu        Sun 14 Jul 2024 06:10:08 HST
-Anchorage       Sun 14 Jul 2024 08:10:08 AKDT
-Seattle         Sun 14 Jul 2024 09:10:08 PDT
-Denver          Sun 14 Jul 2024 10:10:08 MDT
-Springfield     Sun 14 Jul 2024 11:10:08 CDT
-Buffalo         Sun 14 Jul 2024 12:10:08 EDT
-Antigonish      Sun 14 Jul 2024 13:10:08 ADT
-Buenos Aires    Sun 14 Jul 2024 13:10:08 -03
-Sao Paulo       Sun 14 Jul 2024 13:10:08 -03
-London          Sun 14 Jul 2024 17:10:08 BST
-Valencia        Sun 14 Jul 2024 18:10:08 CEST
-Jerusalem       Sun 14 Jul 2024 19:10:08 IDT
-Moscow          Sun 14 Jul 2024 19:10:08 MSK
-Tehran          Sun 14 Jul 2024 19:40:08 +0330
-Delhi           Sun 14 Jul 2024 21:40:08 IST
-Kathmandu       Sun 14 Jul 2024 21:55:08 +0545
-Bangkok         Sun 14 Jul 2024 23:10:08 +07
-Guangzhou       Mon 15 Jul 2024 00:10:08 CST
-Tokyo           Mon 15 Jul 2024 01:10:08 JST
-Sydney          Mon 15 Jul 2024 02:10:08 AEST
-Auckland        Mon 15 Jul 2024 04:10:08 NZST
+UTC             Sun 14 Jul 2024 16:14:55 UTC
+Honolulu        Sun 14 Jul 2024 06:14:55 HST
+Anchorage       Sun 14 Jul 2024 08:14:55 AKDT
+Seattle         Sun 14 Jul 2024 09:14:55 PDT
+Denver          Sun 14 Jul 2024 10:14:55 MDT
+Springfield     Sun 14 Jul 2024 11:14:55 CDT
+Buffalo         Sun 14 Jul 2024 12:14:55 EDT
+Antigonish      Sun 14 Jul 2024 13:14:55 ADT
+Buenos Aires    Sun 14 Jul 2024 13:14:55 -03
+Sao Paulo       Sun 14 Jul 2024 13:14:55 -03
+London          Sun 14 Jul 2024 17:14:55 BST
+Valencia        Sun 14 Jul 2024 18:14:55 CEST
+Jerusalem       Sun 14 Jul 2024 19:14:55 IDT
+Moscow          Sun 14 Jul 2024 19:14:55 MSK
+Tehran          Sun 14 Jul 2024 19:44:55 +0330
+Delhi           Sun 14 Jul 2024 21:44:55 IST
+Kathmandu       Sun 14 Jul 2024 21:59:55 +0545
+Bangkok         Sun 14 Jul 2024 23:14:55 +07
+Guangzhou       Mon 15 Jul 2024 00:14:55 CST
+Tokyo           Mon 15 Jul 2024 01:14:55 JST
+Sydney          Mon 15 Jul 2024 02:14:55 AEST
+Auckland        Mon 15 Jul 2024 04:14:55 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
