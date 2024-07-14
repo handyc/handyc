@@ -425,16 +425,16 @@ a
 
 <details><summary>world</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>-       -       a       -       -.  Africa            
- -       -       -       -       -    .  North America      
-     K       K       K       K       K.  South America      
- a       a       a       a       a    .  Europe             
-     K       K       K       K       K.  Asia               
- K       K       K       K       K    .  Antarctica         
-     a       a       a       a       a.  Australia/Oceania  
- K       K       K       K       K    . 
-     -       -       -       -       -. 
- -       -       -       a       -    .
+<pre>.     -       -       a       -       -.  Africa            
+. -       -       -       -       -    .  North America      
+.     K       K       K       K       K.  South America      
+. a       a       a       a       a    .  Europe             
+.     K       K       K       K       K.  Asia               
+. K       K       K       K       K    .  Antarctica         
+.     a       a       a       a       a.  Australia/Oceania  
+. K       K       K       K       K    . 
+.     -       -       -       -       -. 
+. -       -       -       a       -    .
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sun 14 Jul 2024 16:52:09 UTC
-Honolulu        Sun 14 Jul 2024 06:52:09 HST
-Anchorage       Sun 14 Jul 2024 08:52:09 AKDT
-Seattle         Sun 14 Jul 2024 09:52:09 PDT
-Denver          Sun 14 Jul 2024 10:52:09 MDT
-Springfield     Sun 14 Jul 2024 11:52:09 CDT
-Buffalo         Sun 14 Jul 2024 12:52:09 EDT
-Antigonish      Sun 14 Jul 2024 13:52:09 ADT
-Buenos Aires    Sun 14 Jul 2024 13:52:09 -03
-Sao Paulo       Sun 14 Jul 2024 13:52:09 -03
-London          Sun 14 Jul 2024 17:52:09 BST
-Valencia        Sun 14 Jul 2024 18:52:09 CEST
-Jerusalem       Sun 14 Jul 2024 19:52:09 IDT
-Moscow          Sun 14 Jul 2024 19:52:09 MSK
-Tehran          Sun 14 Jul 2024 20:22:09 +0330
-Delhi           Sun 14 Jul 2024 22:22:09 IST
-Kathmandu       Sun 14 Jul 2024 22:37:09 +0545
-Bangkok         Sun 14 Jul 2024 23:52:09 +07
-Guangzhou       Mon 15 Jul 2024 00:52:09 CST
-Tokyo           Mon 15 Jul 2024 01:52:09 JST
-Sydney          Mon 15 Jul 2024 02:52:09 AEST
-Auckland        Mon 15 Jul 2024 04:52:09 NZST
+UTC             Sun 14 Jul 2024 16:52:56 UTC
+Honolulu        Sun 14 Jul 2024 06:52:56 HST
+Anchorage       Sun 14 Jul 2024 08:52:56 AKDT
+Seattle         Sun 14 Jul 2024 09:52:56 PDT
+Denver          Sun 14 Jul 2024 10:52:56 MDT
+Springfield     Sun 14 Jul 2024 11:52:56 CDT
+Buffalo         Sun 14 Jul 2024 12:52:56 EDT
+Antigonish      Sun 14 Jul 2024 13:52:56 ADT
+Buenos Aires    Sun 14 Jul 2024 13:52:56 -03
+Sao Paulo       Sun 14 Jul 2024 13:52:56 -03
+London          Sun 14 Jul 2024 17:52:56 BST
+Valencia        Sun 14 Jul 2024 18:52:56 CEST
+Jerusalem       Sun 14 Jul 2024 19:52:56 IDT
+Moscow          Sun 14 Jul 2024 19:52:56 MSK
+Tehran          Sun 14 Jul 2024 20:22:56 +0330
+Delhi           Sun 14 Jul 2024 22:22:56 IST
+Kathmandu       Sun 14 Jul 2024 22:37:56 +0545
+Bangkok         Sun 14 Jul 2024 23:52:56 +07
+Guangzhou       Mon 15 Jul 2024 00:52:56 CST
+Tokyo           Mon 15 Jul 2024 01:52:56 JST
+Sydney          Mon 15 Jul 2024 02:52:56 AEST
+Auckland        Mon 15 Jul 2024 04:52:56 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
