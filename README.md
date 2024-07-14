@@ -129,7 +129,7 @@ t               a   a   a   a   a   a   a   a   a      st               a   a   
 <details><summary>hanb/bri</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-<a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
@@ -152,7 +152,7 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>  
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
@@ -165,7 +165,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <details><summary>screens</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>               
-<a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
@@ -188,7 +188,7 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>  
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
 </pre>
 
 
@@ -202,7 +202,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   
 
 
 <pre>               
-<a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
@@ -225,7 +225,7 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>  
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
 </pre>
 
 
@@ -241,7 +241,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   
 
 
 <pre>               
-<a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
@@ -264,7 +264,7 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>  
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
 </pre>
 
 
@@ -280,7 +280,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b   
 
 
 <pre>               
-<a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     <a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
@@ -303,7 +303,7 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b         b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                                                 a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>  
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c         c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
 </pre>
 
 
@@ -427,7 +427,7 @@ b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 
-<a href="https://github.com/handyc/hanb/">b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
+b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  
@@ -450,7 +450,7 @@ b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b
 b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b
   b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b  
                       a   a   a   a   a   a   a   a   a                      
-  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c</a>  </pre>
+  c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c  </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details>
