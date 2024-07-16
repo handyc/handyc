@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 18:59:59 UTC
-Honolulu        Tue 16 Jul 2024 08:59:59 HST
-Anchorage       Tue 16 Jul 2024 10:59:59 AKDT
-Seattle         Tue 16 Jul 2024 11:59:59 PDT
-Denver          Tue 16 Jul 2024 12:59:59 MDT
-Springfield     Tue 16 Jul 2024 13:59:59 CDT
-Buffalo         Tue 16 Jul 2024 14:59:59 EDT
-Antigonish      Tue 16 Jul 2024 15:59:59 ADT
-Buenos Aires    Tue 16 Jul 2024 15:59:59 -03
-Sao Paulo       Tue 16 Jul 2024 15:59:59 -03
-London          Tue 16 Jul 2024 19:59:59 BST
-Valencia        Tue 16 Jul 2024 20:59:59 CEST
-Jerusalem       Tue 16 Jul 2024 21:59:59 IDT
-Moscow          Tue 16 Jul 2024 21:59:59 MSK
-Tehran          Tue 16 Jul 2024 22:29:59 +0330
-Delhi           Wed 17 Jul 2024 00:29:59 IST
-Kathmandu       Wed 17 Jul 2024 00:44:59 +0545
-Bangkok         Wed 17 Jul 2024 01:59:59 +07
-Guangzhou       Wed 17 Jul 2024 02:59:59 CST
-Tokyo           Wed 17 Jul 2024 03:59:59 JST
-Sydney          Wed 17 Jul 2024 04:59:59 AEST
-Auckland        Wed 17 Jul 2024 06:59:59 NZST
+UTC             Tue 16 Jul 2024 19:00:01 UTC
+Honolulu        Tue 16 Jul 2024 09:00:01 HST
+Anchorage       Tue 16 Jul 2024 11:00:01 AKDT
+Seattle         Tue 16 Jul 2024 12:00:01 PDT
+Denver          Tue 16 Jul 2024 13:00:01 MDT
+Springfield     Tue 16 Jul 2024 14:00:01 CDT
+Buffalo         Tue 16 Jul 2024 15:00:01 EDT
+Antigonish      Tue 16 Jul 2024 16:00:01 ADT
+Buenos Aires    Tue 16 Jul 2024 16:00:01 -03
+Sao Paulo       Tue 16 Jul 2024 16:00:01 -03
+London          Tue 16 Jul 2024 20:00:01 BST
+Valencia        Tue 16 Jul 2024 21:00:01 CEST
+Jerusalem       Tue 16 Jul 2024 22:00:01 IDT
+Moscow          Tue 16 Jul 2024 22:00:01 MSK
+Tehran          Tue 16 Jul 2024 22:30:01 +0330
+Delhi           Wed 17 Jul 2024 00:30:01 IST
+Kathmandu       Wed 17 Jul 2024 00:45:01 +0545
+Bangkok         Wed 17 Jul 2024 02:00:01 +07
+Guangzhou       Wed 17 Jul 2024 03:00:01 CST
+Tokyo           Wed 17 Jul 2024 04:00:01 JST
+Sydney          Wed 17 Jul 2024 05:00:01 AEST
+Auckland        Wed 17 Jul 2024 07:00:01 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
