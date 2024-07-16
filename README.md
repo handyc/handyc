@@ -52,13 +52,13 @@ c   c   c   c   c     a   a   a   a   a   a     c   c   c   c   c   c   c     a 
   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   \ / c     a  -BB  B   B-B a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c 
 c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c  /\   c         BBB  B B      c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   
   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   /   \     A   d   B BBB   d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c 
-c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   iiiiiiiii.uuuu  d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   
-  c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c 
-c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   
-                d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d       
-b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   iiiiiiiii.uuuu  d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   
+  c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c 
+c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   
+                d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                       d   d   d   d   d   d   d   d   d       
+b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
 b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
@@ -72,13 +72,13 @@ c   c   c   c   c     a   a m mm  a2  2   a     c   c   c   c   c   c   c     a 
   c   c   c   c   c     a   m  mm  2a 2 a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   \ / c     a  -BB  B   B-B a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c 
 c   c   c   c   c   c       m   mm 2  2     c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c  /\   c         BBB  B B      c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   
   c   c   c   c   c     d   m   mmmm  2 d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   /   \     A   d   B BBB   d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c 
-c   c   c   c   c     d   d m d   mm  2   d     c   c   c   c   c   c   c     d   iiiiiiiii.uuuu  d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   
-  c   c   c   c     d   d   m   d  mm 2 d  6d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c 
-c   c   c   c     d   d   d m d   d mmm   44  d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   
-                d   d   d   m   d   dmm d444d6666d                       d   d   d******.***uuuu d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d       
-b   b   b   b     d mmmmmmmmmmmmmmmmmmd 2222222     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+c   c   c   c   c     d   d m d   mm  2   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   iiiiiiiii.uuuu  d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   
+  c   c   c   c     d   d   m   d  mm 2 d  6d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c 
+c   c   c   c     d   d   d m d   d mmm   44  d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   
+                d   d   d   m   d   dmm d444d6666d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                       d   d   d   d   d   d   d   d   d       
+b   b   b   b     d mmmmmmmmmmmmmmmmmmd 2222222     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
 b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 20:10:47 UTC
-Honolulu        Tue 16 Jul 2024 10:10:47 HST
-Anchorage       Tue 16 Jul 2024 12:10:47 AKDT
-Seattle         Tue 16 Jul 2024 13:10:47 PDT
-Denver          Tue 16 Jul 2024 14:10:47 MDT
-Springfield     Tue 16 Jul 2024 15:10:47 CDT
-Buffalo         Tue 16 Jul 2024 16:10:47 EDT
-Antigonish      Tue 16 Jul 2024 17:10:47 ADT
-Buenos Aires    Tue 16 Jul 2024 17:10:47 -03
-Sao Paulo       Tue 16 Jul 2024 17:10:47 -03
-London          Tue 16 Jul 2024 21:10:47 BST
-Valencia        Tue 16 Jul 2024 22:10:47 CEST
-Jerusalem       Tue 16 Jul 2024 23:10:47 IDT
-Moscow          Tue 16 Jul 2024 23:10:47 MSK
-Tehran          Tue 16 Jul 2024 23:40:47 +0330
-Delhi           Wed 17 Jul 2024 01:40:47 IST
-Kathmandu       Wed 17 Jul 2024 01:55:47 +0545
-Bangkok         Wed 17 Jul 2024 03:10:47 +07
-Guangzhou       Wed 17 Jul 2024 04:10:47 CST
-Tokyo           Wed 17 Jul 2024 05:10:47 JST
-Sydney          Wed 17 Jul 2024 06:10:47 AEST
-Auckland        Wed 17 Jul 2024 08:10:47 NZST
+UTC             Tue 16 Jul 2024 20:11:46 UTC
+Honolulu        Tue 16 Jul 2024 10:11:46 HST
+Anchorage       Tue 16 Jul 2024 12:11:46 AKDT
+Seattle         Tue 16 Jul 2024 13:11:46 PDT
+Denver          Tue 16 Jul 2024 14:11:46 MDT
+Springfield     Tue 16 Jul 2024 15:11:46 CDT
+Buffalo         Tue 16 Jul 2024 16:11:46 EDT
+Antigonish      Tue 16 Jul 2024 17:11:46 ADT
+Buenos Aires    Tue 16 Jul 2024 17:11:46 -03
+Sao Paulo       Tue 16 Jul 2024 17:11:46 -03
+London          Tue 16 Jul 2024 21:11:46 BST
+Valencia        Tue 16 Jul 2024 22:11:46 CEST
+Jerusalem       Tue 16 Jul 2024 23:11:46 IDT
+Moscow          Tue 16 Jul 2024 23:11:46 MSK
+Tehran          Tue 16 Jul 2024 23:41:46 +0330
+Delhi           Wed 17 Jul 2024 01:41:46 IST
+Kathmandu       Wed 17 Jul 2024 01:56:46 +0545
+Bangkok         Wed 17 Jul 2024 03:11:46 +07
+Guangzhou       Wed 17 Jul 2024 04:11:46 CST
+Tokyo           Wed 17 Jul 2024 05:11:46 JST
+Sydney          Wed 17 Jul 2024 06:11:46 AEST
+Auckland        Wed 17 Jul 2024 08:11:46 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
