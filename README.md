@@ -53,9 +53,9 @@ c   c   c   c   c     a   a   a   a   a   a     c   c   c   c   c   c   c     a 
 c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c  /\   c         BBB  B B      c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c       eee eee         c   c   c   
   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   /   \     A   d   B BBB   d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   dee de d    d     c   c   c 
 c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   iiiiiiiii.uuuu  d     c   c   c   c   c   c   c     d   d   dloed   d   d     c   c   
-  c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c   c   c   c   c     d   d  ooooooo eeee  d   d     c   c 
-c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c     d   d   dee dl0eee eeeed  d   d     c   
-                d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                       d   d   d  ee ooooeeeeeeeed   d   d       
+  c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c   c   c   c   c     d   d  ooooooo eee  d   d     c   c 
+c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c     d   d   dee dl0eee eed  d   d     c   
+                d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                       d   d   d  ee ooooeeee  d   d   d       
 b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b     d   d   dee d oemee  deed   d     b   
   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b   b     d   d  ee   d mee   d eed     b   b 
 b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   b   b   b     d   deejjsLLLee sss d     b   b   
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 20:25:02 UTC
-Honolulu        Tue 16 Jul 2024 10:25:02 HST
-Anchorage       Tue 16 Jul 2024 12:25:02 AKDT
-Seattle         Tue 16 Jul 2024 13:25:02 PDT
-Denver          Tue 16 Jul 2024 14:25:02 MDT
-Springfield     Tue 16 Jul 2024 15:25:02 CDT
-Buffalo         Tue 16 Jul 2024 16:25:02 EDT
-Antigonish      Tue 16 Jul 2024 17:25:02 ADT
-Buenos Aires    Tue 16 Jul 2024 17:25:02 -03
-Sao Paulo       Tue 16 Jul 2024 17:25:02 -03
-London          Tue 16 Jul 2024 21:25:02 BST
-Valencia        Tue 16 Jul 2024 22:25:02 CEST
-Jerusalem       Tue 16 Jul 2024 23:25:02 IDT
-Moscow          Tue 16 Jul 2024 23:25:02 MSK
-Tehran          Tue 16 Jul 2024 23:55:02 +0330
-Delhi           Wed 17 Jul 2024 01:55:03 IST
-Kathmandu       Wed 17 Jul 2024 02:10:03 +0545
-Bangkok         Wed 17 Jul 2024 03:25:03 +07
-Guangzhou       Wed 17 Jul 2024 04:25:03 CST
-Tokyo           Wed 17 Jul 2024 05:25:03 JST
-Sydney          Wed 17 Jul 2024 06:25:03 AEST
-Auckland        Wed 17 Jul 2024 08:25:03 NZST
+UTC             Tue 16 Jul 2024 20:26:08 UTC
+Honolulu        Tue 16 Jul 2024 10:26:08 HST
+Anchorage       Tue 16 Jul 2024 12:26:08 AKDT
+Seattle         Tue 16 Jul 2024 13:26:08 PDT
+Denver          Tue 16 Jul 2024 14:26:08 MDT
+Springfield     Tue 16 Jul 2024 15:26:08 CDT
+Buffalo         Tue 16 Jul 2024 16:26:08 EDT
+Antigonish      Tue 16 Jul 2024 17:26:08 ADT
+Buenos Aires    Tue 16 Jul 2024 17:26:08 -03
+Sao Paulo       Tue 16 Jul 2024 17:26:08 -03
+London          Tue 16 Jul 2024 21:26:08 BST
+Valencia        Tue 16 Jul 2024 22:26:08 CEST
+Jerusalem       Tue 16 Jul 2024 23:26:08 IDT
+Moscow          Tue 16 Jul 2024 23:26:08 MSK
+Tehran          Tue 16 Jul 2024 23:56:08 +0330
+Delhi           Wed 17 Jul 2024 01:56:08 IST
+Kathmandu       Wed 17 Jul 2024 02:11:08 +0545
+Bangkok         Wed 17 Jul 2024 03:26:08 +07
+Guangzhou       Wed 17 Jul 2024 04:26:08 CST
+Tokyo           Wed 17 Jul 2024 05:26:08 JST
+Sydney          Wed 17 Jul 2024 06:26:08 AEST
+Auckland        Wed 17 Jul 2024 08:26:08 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
