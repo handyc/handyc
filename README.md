@@ -32,13 +32,13 @@ c   c   c   c   c/    a  -BBB a BBa  BBB  a     c   c   c   c   c   c   c     a 
   c   c   c   \ / c     a  -BB  B   B-B a     c   c   c   c   c   c   \   c     a  -BB  B   B-B a     c   c   c   c   c   c   \   c     a  -BB  B   B-B a     c   c   c   c   c   c   \   c     a  -BB  B   B-B a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c 
 c   c   c   c  /\   c         BBB  B B      c   c   c   c   c   c   c   \ 0 c         BBB  B B      c   c   c   c   c   c   c   \   c         BBB  B B      c   c   c   c   c   c   c   \   c         BBB  B B      c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   
   c   c   c   /   \     A   d   B BBB   d     c   c   c   c   c   c   c  0\     A   d   B BBB   d     c   c   c   c   c   c   c   \     A   d   B BBB   d     c   c   c   c   c   c   c   \     A   d   B BBB   d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c 
-c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   0000\ d   A   d BBd   d   d     c   c   c   c   c   c   c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   
-  c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c  ------------|  A   B   11111   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c 
-c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c|000000| d88|d   A B d   d   d   d     c   c   c   c   c|    d | d  |d   A B d 11111 d   d     c   c   c   c   c|  111 | d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   
-             |  d   |   d|  d  mmm  d   d   d   d                    |000000|  88|  d  mmm  d   d   d   d                    |  d   |   d|  d  mmm  11111   d   d                    |  111 |   d|  d  mmm  d   d   d   d                       d   d   d   d   m   d   d   d   d                       d   d   d   d   d   d   d   d   d       
-b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b|000000| d88|__.0000000__d   d   d     b   b   b   b   b|    d | d  |__._1111_!1111111111d     b   b   b   b   b|  111 | d  |__._2222_!__d   d   d     b   b   b   b   b     d   d   d   d m m   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
-  b   b   b  |---------------   m  md   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   m m m   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d m m m m   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   0000\ d   A   d BBd   d   d     c   c   c   c   c   c   c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   iiiiiiiii.uuuu  d     c   c   
+  c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c  ------------|  A   B   11111   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c 
+c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c|000000| d88|d   A B d   d   d   d     c   c   c   c   c|    d | d  |d   A B d 11111 d   d     c   c   c   c   c|  111 | d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   
+             |  d   |   d|  d  mmm  d   d   d   d                    |000000|  88|  d  mmm  d   d   d   d                    |  d   |   d|  d  mmm  11111   d   d                    |  111 |   d|  d  mmm  d   d   d   d                       d   d   d   d   m   d   d   d   d                       d   d   d******.***uuuu d   d   d       
+b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b|000000| d88|__.0000000__d   d   d     b   b   b   b   b|    d | d  |__._1111_!1111111111d     b   b   b   b   b|  111 | d  |__._2222_!__d   d   d     b   b   b   b   b     d   d   d   d m m   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   
+  b   b   b  |---------------   m  md   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   m m m   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b 
+b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d m m m m   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   
   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     d   d   m m m m m     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
 b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 20:00:02 UTC
-Honolulu        Tue 16 Jul 2024 10:00:02 HST
-Anchorage       Tue 16 Jul 2024 12:00:02 AKDT
-Seattle         Tue 16 Jul 2024 13:00:02 PDT
-Denver          Tue 16 Jul 2024 14:00:02 MDT
-Springfield     Tue 16 Jul 2024 15:00:02 CDT
-Buffalo         Tue 16 Jul 2024 16:00:02 EDT
-Antigonish      Tue 16 Jul 2024 17:00:02 ADT
-Buenos Aires    Tue 16 Jul 2024 17:00:02 -03
-Sao Paulo       Tue 16 Jul 2024 17:00:02 -03
-London          Tue 16 Jul 2024 21:00:02 BST
-Valencia        Tue 16 Jul 2024 22:00:02 CEST
-Jerusalem       Tue 16 Jul 2024 23:00:02 IDT
-Moscow          Tue 16 Jul 2024 23:00:02 MSK
-Tehran          Tue 16 Jul 2024 23:30:02 +0330
-Delhi           Wed 17 Jul 2024 01:30:02 IST
-Kathmandu       Wed 17 Jul 2024 01:45:02 +0545
-Bangkok         Wed 17 Jul 2024 03:00:02 +07
-Guangzhou       Wed 17 Jul 2024 04:00:02 CST
-Tokyo           Wed 17 Jul 2024 05:00:02 JST
-Sydney          Wed 17 Jul 2024 06:00:02 AEST
-Auckland        Wed 17 Jul 2024 08:00:02 NZST
+UTC             Tue 16 Jul 2024 20:05:13 UTC
+Honolulu        Tue 16 Jul 2024 10:05:13 HST
+Anchorage       Tue 16 Jul 2024 12:05:13 AKDT
+Seattle         Tue 16 Jul 2024 13:05:13 PDT
+Denver          Tue 16 Jul 2024 14:05:13 MDT
+Springfield     Tue 16 Jul 2024 15:05:13 CDT
+Buffalo         Tue 16 Jul 2024 16:05:13 EDT
+Antigonish      Tue 16 Jul 2024 17:05:13 ADT
+Buenos Aires    Tue 16 Jul 2024 17:05:13 -03
+Sao Paulo       Tue 16 Jul 2024 17:05:13 -03
+London          Tue 16 Jul 2024 21:05:13 BST
+Valencia        Tue 16 Jul 2024 22:05:13 CEST
+Jerusalem       Tue 16 Jul 2024 23:05:13 IDT
+Moscow          Tue 16 Jul 2024 23:05:13 MSK
+Tehran          Tue 16 Jul 2024 23:35:13 +0330
+Delhi           Wed 17 Jul 2024 01:35:13 IST
+Kathmandu       Wed 17 Jul 2024 01:50:13 +0545
+Bangkok         Wed 17 Jul 2024 03:05:13 +07
+Guangzhou       Wed 17 Jul 2024 04:05:13 CST
+Tokyo           Wed 17 Jul 2024 05:05:13 JST
+Sydney          Wed 17 Jul 2024 06:05:13 AEST
+Auckland        Wed 17 Jul 2024 08:05:13 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
