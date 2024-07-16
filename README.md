@@ -76,7 +76,7 @@ c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d 
   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c 
 c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   
                 d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d       
-b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
+b   b   b   b     d mmmmmmmmmmmmmmmmmmd   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
 b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 20:05:13 UTC
-Honolulu        Tue 16 Jul 2024 10:05:13 HST
-Anchorage       Tue 16 Jul 2024 12:05:13 AKDT
-Seattle         Tue 16 Jul 2024 13:05:13 PDT
-Denver          Tue 16 Jul 2024 14:05:13 MDT
-Springfield     Tue 16 Jul 2024 15:05:13 CDT
-Buffalo         Tue 16 Jul 2024 16:05:13 EDT
-Antigonish      Tue 16 Jul 2024 17:05:13 ADT
-Buenos Aires    Tue 16 Jul 2024 17:05:13 -03
-Sao Paulo       Tue 16 Jul 2024 17:05:13 -03
-London          Tue 16 Jul 2024 21:05:13 BST
-Valencia        Tue 16 Jul 2024 22:05:13 CEST
-Jerusalem       Tue 16 Jul 2024 23:05:13 IDT
-Moscow          Tue 16 Jul 2024 23:05:13 MSK
-Tehran          Tue 16 Jul 2024 23:35:13 +0330
-Delhi           Wed 17 Jul 2024 01:35:13 IST
-Kathmandu       Wed 17 Jul 2024 01:50:13 +0545
-Bangkok         Wed 17 Jul 2024 03:05:13 +07
-Guangzhou       Wed 17 Jul 2024 04:05:13 CST
-Tokyo           Wed 17 Jul 2024 05:05:13 JST
-Sydney          Wed 17 Jul 2024 06:05:13 AEST
-Auckland        Wed 17 Jul 2024 08:05:13 NZST
+UTC             Tue 16 Jul 2024 20:06:29 UTC
+Honolulu        Tue 16 Jul 2024 10:06:29 HST
+Anchorage       Tue 16 Jul 2024 12:06:29 AKDT
+Seattle         Tue 16 Jul 2024 13:06:29 PDT
+Denver          Tue 16 Jul 2024 14:06:29 MDT
+Springfield     Tue 16 Jul 2024 15:06:29 CDT
+Buffalo         Tue 16 Jul 2024 16:06:29 EDT
+Antigonish      Tue 16 Jul 2024 17:06:29 ADT
+Buenos Aires    Tue 16 Jul 2024 17:06:29 -03
+Sao Paulo       Tue 16 Jul 2024 17:06:29 -03
+London          Tue 16 Jul 2024 21:06:29 BST
+Valencia        Tue 16 Jul 2024 22:06:29 CEST
+Jerusalem       Tue 16 Jul 2024 23:06:29 IDT
+Moscow          Tue 16 Jul 2024 23:06:29 MSK
+Tehran          Tue 16 Jul 2024 23:36:29 +0330
+Delhi           Wed 17 Jul 2024 01:36:29 IST
+Kathmandu       Wed 17 Jul 2024 01:51:29 +0545
+Bangkok         Wed 17 Jul 2024 03:06:29 +07
+Guangzhou       Wed 17 Jul 2024 04:06:29 CST
+Tokyo           Wed 17 Jul 2024 05:06:29 JST
+Sydney          Wed 17 Jul 2024 06:06:29 AEST
+Auckland        Wed 17 Jul 2024 08:06:29 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
