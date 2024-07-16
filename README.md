@@ -54,11 +54,11 @@ c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c   
   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   /   \     A   d   B BBB   d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c 
 c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   iiiiiiiii.uuuu  d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   
   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d.iiiiiiii.uuuuud   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c 
-c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   
-                d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                       d   d   d   d   d   d   d   d   d       
-b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   
+c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c     d   d   d   d   p   d   d   d     c   
+                d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d                       d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                       d   d   d   d   d p d   d   d   d       
+b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b     d   d   d   d   p   d   d   d     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b   b     d   d   d   d p d   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   b   b   b     d   d   d   P   d   d     b   b   
   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b 
 b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 20:15:39 UTC
-Honolulu        Tue 16 Jul 2024 10:15:39 HST
-Anchorage       Tue 16 Jul 2024 12:15:39 AKDT
-Seattle         Tue 16 Jul 2024 13:15:39 PDT
-Denver          Tue 16 Jul 2024 14:15:39 MDT
-Springfield     Tue 16 Jul 2024 15:15:39 CDT
-Buffalo         Tue 16 Jul 2024 16:15:39 EDT
-Antigonish      Tue 16 Jul 2024 17:15:39 ADT
-Buenos Aires    Tue 16 Jul 2024 17:15:39 -03
-Sao Paulo       Tue 16 Jul 2024 17:15:39 -03
-London          Tue 16 Jul 2024 21:15:39 BST
-Valencia        Tue 16 Jul 2024 22:15:39 CEST
-Jerusalem       Tue 16 Jul 2024 23:15:39 IDT
-Moscow          Tue 16 Jul 2024 23:15:39 MSK
-Tehran          Tue 16 Jul 2024 23:45:39 +0330
-Delhi           Wed 17 Jul 2024 01:45:39 IST
-Kathmandu       Wed 17 Jul 2024 02:00:39 +0545
-Bangkok         Wed 17 Jul 2024 03:15:39 +07
-Guangzhou       Wed 17 Jul 2024 04:15:39 CST
-Tokyo           Wed 17 Jul 2024 05:15:39 JST
-Sydney          Wed 17 Jul 2024 06:15:39 AEST
-Auckland        Wed 17 Jul 2024 08:15:39 NZST
+UTC             Tue 16 Jul 2024 20:20:31 UTC
+Honolulu        Tue 16 Jul 2024 10:20:31 HST
+Anchorage       Tue 16 Jul 2024 12:20:31 AKDT
+Seattle         Tue 16 Jul 2024 13:20:31 PDT
+Denver          Tue 16 Jul 2024 14:20:31 MDT
+Springfield     Tue 16 Jul 2024 15:20:31 CDT
+Buffalo         Tue 16 Jul 2024 16:20:31 EDT
+Antigonish      Tue 16 Jul 2024 17:20:31 ADT
+Buenos Aires    Tue 16 Jul 2024 17:20:31 -03
+Sao Paulo       Tue 16 Jul 2024 17:20:31 -03
+London          Tue 16 Jul 2024 21:20:31 BST
+Valencia        Tue 16 Jul 2024 22:20:31 CEST
+Jerusalem       Tue 16 Jul 2024 23:20:31 IDT
+Moscow          Tue 16 Jul 2024 23:20:31 MSK
+Tehran          Tue 16 Jul 2024 23:50:31 +0330
+Delhi           Wed 17 Jul 2024 01:50:31 IST
+Kathmandu       Wed 17 Jul 2024 02:05:31 +0545
+Bangkok         Wed 17 Jul 2024 03:20:31 +07
+Guangzhou       Wed 17 Jul 2024 04:20:31 CST
+Tokyo           Wed 17 Jul 2024 05:20:31 JST
+Sydney          Wed 17 Jul 2024 06:20:31 AEST
+Auckland        Wed 17 Jul 2024 08:20:31 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
