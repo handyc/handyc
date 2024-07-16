@@ -17,14 +17,14 @@ c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d 
 c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d  ***.******uuuuu  d   d     c   c   c   c   c     d   d   d   W   WWWWW   W   d     c   c   c   c 2 c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d ===== d== d   d   d     c   c   c   c   c| house| d  |d   A B d   d   d   d     c   
                 d   d   d   d   d   d   d   d   d                       d   d   d******.***uuuu d   d   d                       dWWWW  W WWWW   W   WWWW WWWW   d                 2     d   d   d   d   d   d   d   d   d                       d   d   d   =====  == ==d   d   d                    |  d   |   d|  d  mmm  d   d   d   d       
 b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d   d  **.*******uuud   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b 2222222 d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d  ==========   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   
-  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   2   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b 
-b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   2   b   b     d   d   d   d   d   d     b   b   b   b   b 222   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   
-  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   2   2   b   b     d   d   d   d   d     b   b   b   b   b   2   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b 
-b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   2   2   b   b                       b   b   b   b   b   b 2 b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   
-  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   2   b   b     a   a   a   a   a     b   b   b   b   b   2   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
-b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
-  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
-b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
+  b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d*******.**uu   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   2   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d 33d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b 
+b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d  *.********   d   d     b   b   b   b   2   b   b     d   d   d   d   d   d     b   b   b   b   b 222   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   33  d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   
+  b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   2   2   b   b     d   d   d   d   d     b   b   b   b   b   2   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     33  d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b 
+b   b   b   b   b   b                       b   b   b   b   b   b   b   b   b                       b   b   b   b   b   2   2   b   b                       b   b   b   b   b   b 2 b   b   b                       b   b   b   b   b   b 3333333333 b 33                    b   b   b   b   b   b   b   b   b                       b   b   b   
+  b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b   b   b   2   b   b     a   a   a   a   a     b   b   b   b   b   2   b   b     a   a   a   a   a     b   b   b   b   b   b   b   b 33  a   a   a   a   a     b   b   b   b   b   b   b   b     a   a   a   a   a     b   b   b 
+b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   b   b333333333  b 33  a   a   a   a   a   a     b   b   b   b   b   b   b     a   a   a   a   a   a     b   b   
+  b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b   b   b  33333b 33  a   a   a   a   a   a   a     b   b   b   b   b   b     a   a   a   a   a   a   a     b   b 
+b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   b   b   b 33333   a   a   a   a   a   a   a   a     b   b   b   b   b     a   a   a   a   a   a   a   a     b   
 t               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      st               a   a   a   a   a   a   a   a   a      s
 c   c   c   c     a/\ a   B B a B B   aB BB   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   B B a B B   aB BB   a     c   c   c   c   c     a   a   B B a B B   aB BB   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c     a   a   a   a   a   a   a   a     c   
   c   c   c   c   / a   a  BB  -B B a-B B   a     c   c   c   c   c   c     a   a   a   a   a   a   a     c   c   c   c   c   c     a   a  BB  -B B a-B B   a     c   c   c   c   c   c     a   a  BB  -B B a-B B   a     c   c   c   c   c   c     a   a   a   a   a   a   a     c   c   c   c   c   c     a   a   a   a   a   a   a     c   c 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 20:14:32 UTC
-Honolulu        Tue 16 Jul 2024 10:14:32 HST
-Anchorage       Tue 16 Jul 2024 12:14:32 AKDT
-Seattle         Tue 16 Jul 2024 13:14:32 PDT
-Denver          Tue 16 Jul 2024 14:14:32 MDT
-Springfield     Tue 16 Jul 2024 15:14:32 CDT
-Buffalo         Tue 16 Jul 2024 16:14:32 EDT
-Antigonish      Tue 16 Jul 2024 17:14:32 ADT
-Buenos Aires    Tue 16 Jul 2024 17:14:32 -03
-Sao Paulo       Tue 16 Jul 2024 17:14:32 -03
-London          Tue 16 Jul 2024 21:14:32 BST
-Valencia        Tue 16 Jul 2024 22:14:32 CEST
-Jerusalem       Tue 16 Jul 2024 23:14:32 IDT
-Moscow          Tue 16 Jul 2024 23:14:32 MSK
-Tehran          Tue 16 Jul 2024 23:44:32 +0330
-Delhi           Wed 17 Jul 2024 01:44:32 IST
-Kathmandu       Wed 17 Jul 2024 01:59:32 +0545
-Bangkok         Wed 17 Jul 2024 03:14:32 +07
-Guangzhou       Wed 17 Jul 2024 04:14:32 CST
-Tokyo           Wed 17 Jul 2024 05:14:32 JST
-Sydney          Wed 17 Jul 2024 06:14:32 AEST
-Auckland        Wed 17 Jul 2024 08:14:32 NZST
+UTC             Tue 16 Jul 2024 20:15:39 UTC
+Honolulu        Tue 16 Jul 2024 10:15:39 HST
+Anchorage       Tue 16 Jul 2024 12:15:39 AKDT
+Seattle         Tue 16 Jul 2024 13:15:39 PDT
+Denver          Tue 16 Jul 2024 14:15:39 MDT
+Springfield     Tue 16 Jul 2024 15:15:39 CDT
+Buffalo         Tue 16 Jul 2024 16:15:39 EDT
+Antigonish      Tue 16 Jul 2024 17:15:39 ADT
+Buenos Aires    Tue 16 Jul 2024 17:15:39 -03
+Sao Paulo       Tue 16 Jul 2024 17:15:39 -03
+London          Tue 16 Jul 2024 21:15:39 BST
+Valencia        Tue 16 Jul 2024 22:15:39 CEST
+Jerusalem       Tue 16 Jul 2024 23:15:39 IDT
+Moscow          Tue 16 Jul 2024 23:15:39 MSK
+Tehran          Tue 16 Jul 2024 23:45:39 +0330
+Delhi           Wed 17 Jul 2024 01:45:39 IST
+Kathmandu       Wed 17 Jul 2024 02:00:39 +0545
+Bangkok         Wed 17 Jul 2024 03:15:39 +07
+Guangzhou       Wed 17 Jul 2024 04:15:39 CST
+Tokyo           Wed 17 Jul 2024 05:15:39 JST
+Sydney          Wed 17 Jul 2024 06:15:39 AEST
+Auckland        Wed 17 Jul 2024 08:15:39 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
