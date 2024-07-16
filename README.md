@@ -12,11 +12,11 @@ c   c   c   c   c     a   a   a   a   a   a     c   c   c   c   c   c   c     a 
   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   1   1   c 2 2   2   c   c     a   a   a   a   a     c   c   c   c   c   c   c   c     a   a   a   a   a     c   c   c   c   c   c   \ / c     a  -BB  B   B-B a     c   c   c 
 c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   1   c   c2  c 2 c   c   c                       c   c   c   c   c   c   c   c   c                       c   c   c   c   c   c   c  /\   c         BBB  B B      c   c   c   
   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   WW d    W     c   1   1   c   22  2   c   c     d   d   d  d    d     c   c   c   c   c   c   c   c     d   d   d  d    d     c   c   c   c   c   c   /   \     A   d   B BBB   d     c   c   c 
-c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d -------   d   d   d     c   c   c   c   c   c   c     d   d   d W W   d WWW     c   1   c   c   2 2 c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   
-  c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   0  ------   d   d     c   c   c   c   c   c     d   d   d   W  WW   WWW d     c   1   c   c  222  c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c 
-c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d -----------   d   d   d   d     c   c   c   c   c     d   d   d   W   WWWWW   W   d     c   c   c   c 2 c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c|    d | d  |d   A B d   d   d   d     c   
-                d   d   d   d   d   d   d   d   d                       d   d   d   0   - ---  ------   d                       dWWWW  W WWWW   W   WWWW WWWW   d                 2     d   d   d   d   d   d   d   d   d                       d   d   d   d   d   d   d   d   d                    |  d   |   d|  d  mmm  d   d   d   d       
-b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d ----------0   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b 2222222 d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   
+c   c   c   c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d -------   d   d   d     c   c   c   c   c   c   c     d   d   d W W   d WWW     c   1   c   c   2 2 c   c     d   d   d   d   d   d     c   c   c   c   c   c   c     d   d   d== d== d   d     c   c   c   c   c   c/  c   \ d   A   d BBd   d   d     c   c   
+  c   c   c   c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   0  ------   d   d     c   c   c   c   c   c     d   d   d   W  WW   WWW d     c   1   c   c  222  c     d   d   d   d   d   d   d     c   c   c   c   c   c     d   d   d====  ==   d   d     c   c   c   c   c  ------------|  A   B   d   d   d     c   c 
+c   c   c   c     d   d   d   d   d   d   d   d     c   c   c   c   c     d -----------   d   d   d   d     c   c   c   c   c     d   d   d   W   WWWWW   W   d     c   c   c   c 2 c     d   d   d   d   d   d   d   d     c   c   c   c   c     d   d   d ===== d== d   d   d     c   c   c   c   c|    d | d  |d   A B d   d   d   d     c   
+                d   d   d   d   d   d   d   d   d                       d   d   d   0   - ---  ------   d                       dWWWW  W WWWW   W   WWWW WWWW   d                 2     d   d   d   d   d   d   d   d   d                       d   d   d   =====  == ==d   d   d                    |  d   |   d|  d  mmm  d   d   d   d       
+b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b   b     d ----------0   d   d   d   d     b   b   b   b   b     d   d   d   d   d   d   d   d     b   b   b   b 2222222 d   d   d   d   d   d   d   d     b   b   b   b   b     d   d   d  ==========   d   d     b   b   b   b   b|    d | d  |__._Z00P_!__d   d   d     b   
   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d  ----- ---- -------   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   2   b     d   d   d   d   d   d   d     b   b   b   b   b   b     d   d   d   d   d   d   d     b   b   b   b   b  |---------------   m  md   d   d     b   b 
 b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   2   b   b     d   d   d   d   d   d     b   b   b   b   b 222   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   d   d   d   d   d     b   b   b   b   b   b   b     d   m   m   m   d   d     b   b   
   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   2   2   b   b     d   d   d   d   d     b   b   b   b   b   2   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     d   d   d   d   d     b   b   b   b   b   b   b   b     A   d   d   d   d     b   b   b 
@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 16 Jul 2024 19:50:13 UTC
-Honolulu        Tue 16 Jul 2024 09:50:13 HST
-Anchorage       Tue 16 Jul 2024 11:50:13 AKDT
-Seattle         Tue 16 Jul 2024 12:50:13 PDT
-Denver          Tue 16 Jul 2024 13:50:13 MDT
-Springfield     Tue 16 Jul 2024 14:50:13 CDT
-Buffalo         Tue 16 Jul 2024 15:50:13 EDT
-Antigonish      Tue 16 Jul 2024 16:50:13 ADT
-Buenos Aires    Tue 16 Jul 2024 16:50:13 -03
-Sao Paulo       Tue 16 Jul 2024 16:50:13 -03
-London          Tue 16 Jul 2024 20:50:13 BST
-Valencia        Tue 16 Jul 2024 21:50:13 CEST
-Jerusalem       Tue 16 Jul 2024 22:50:13 IDT
-Moscow          Tue 16 Jul 2024 22:50:13 MSK
-Tehran          Tue 16 Jul 2024 23:20:13 +0330
-Delhi           Wed 17 Jul 2024 01:20:13 IST
-Kathmandu       Wed 17 Jul 2024 01:35:13 +0545
-Bangkok         Wed 17 Jul 2024 02:50:13 +07
-Guangzhou       Wed 17 Jul 2024 03:50:13 CST
-Tokyo           Wed 17 Jul 2024 04:50:13 JST
-Sydney          Wed 17 Jul 2024 05:50:13 AEST
-Auckland        Wed 17 Jul 2024 07:50:13 NZST
+UTC             Tue 16 Jul 2024 19:51:26 UTC
+Honolulu        Tue 16 Jul 2024 09:51:26 HST
+Anchorage       Tue 16 Jul 2024 11:51:26 AKDT
+Seattle         Tue 16 Jul 2024 12:51:26 PDT
+Denver          Tue 16 Jul 2024 13:51:26 MDT
+Springfield     Tue 16 Jul 2024 14:51:26 CDT
+Buffalo         Tue 16 Jul 2024 15:51:26 EDT
+Antigonish      Tue 16 Jul 2024 16:51:26 ADT
+Buenos Aires    Tue 16 Jul 2024 16:51:26 -03
+Sao Paulo       Tue 16 Jul 2024 16:51:26 -03
+London          Tue 16 Jul 2024 20:51:26 BST
+Valencia        Tue 16 Jul 2024 21:51:26 CEST
+Jerusalem       Tue 16 Jul 2024 22:51:26 IDT
+Moscow          Tue 16 Jul 2024 22:51:26 MSK
+Tehran          Tue 16 Jul 2024 23:21:26 +0330
+Delhi           Wed 17 Jul 2024 01:21:26 IST
+Kathmandu       Wed 17 Jul 2024 01:36:26 +0545
+Bangkok         Wed 17 Jul 2024 02:51:26 +07
+Guangzhou       Wed 17 Jul 2024 03:51:26 CST
+Tokyo           Wed 17 Jul 2024 04:51:26 JST
+Sydney          Wed 17 Jul 2024 05:51:26 AEST
+Auckland        Wed 17 Jul 2024 07:51:26 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
