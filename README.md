@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 20 Jul 2024 21:00:02 UTC
-Honolulu        Sat 20 Jul 2024 11:00:02 HST
-Anchorage       Sat 20 Jul 2024 13:00:02 AKDT
-Seattle         Sat 20 Jul 2024 14:00:02 PDT
-Denver          Sat 20 Jul 2024 15:00:02 MDT
-Springfield     Sat 20 Jul 2024 16:00:02 CDT
-Buffalo         Sat 20 Jul 2024 17:00:02 EDT
-Antigonish      Sat 20 Jul 2024 18:00:02 ADT
-Buenos Aires    Sat 20 Jul 2024 18:00:02 -03
-Sao Paulo       Sat 20 Jul 2024 18:00:02 -03
-London          Sat 20 Jul 2024 22:00:02 BST
-Valencia        Sat 20 Jul 2024 23:00:02 CEST
-Jerusalem       Sun 21 Jul 2024 00:00:02 IDT
-Moscow          Sun 21 Jul 2024 00:00:02 MSK
-Tehran          Sun 21 Jul 2024 00:30:02 +0330
-Delhi           Sun 21 Jul 2024 02:30:02 IST
-Kathmandu       Sun 21 Jul 2024 02:45:02 +0545
-Bangkok         Sun 21 Jul 2024 04:00:02 +07
-Guangzhou       Sun 21 Jul 2024 05:00:02 CST
-Tokyo           Sun 21 Jul 2024 06:00:02 JST
-Sydney          Sun 21 Jul 2024 07:00:02 AEST
-Auckland        Sun 21 Jul 2024 09:00:02 NZST
+UTC             Sun 21 Jul 2024 10:00:02 UTC
+Honolulu        Sun 21 Jul 2024 00:00:02 HST
+Anchorage       Sun 21 Jul 2024 02:00:02 AKDT
+Seattle         Sun 21 Jul 2024 03:00:02 PDT
+Denver          Sun 21 Jul 2024 04:00:02 MDT
+Springfield     Sun 21 Jul 2024 05:00:02 CDT
+Buffalo         Sun 21 Jul 2024 06:00:02 EDT
+Antigonish      Sun 21 Jul 2024 07:00:02 ADT
+Buenos Aires    Sun 21 Jul 2024 07:00:02 -03
+Sao Paulo       Sun 21 Jul 2024 07:00:02 -03
+London          Sun 21 Jul 2024 11:00:02 BST
+Valencia        Sun 21 Jul 2024 12:00:02 CEST
+Jerusalem       Sun 21 Jul 2024 13:00:02 IDT
+Moscow          Sun 21 Jul 2024 13:00:02 MSK
+Tehran          Sun 21 Jul 2024 13:30:02 +0330
+Delhi           Sun 21 Jul 2024 15:30:02 IST
+Kathmandu       Sun 21 Jul 2024 15:45:02 +0545
+Bangkok         Sun 21 Jul 2024 17:00:02 +07
+Guangzhou       Sun 21 Jul 2024 18:00:02 CST
+Tokyo           Sun 21 Jul 2024 19:00:02 JST
+Sydney          Sun 21 Jul 2024 20:00:02 AEST
+Auckland        Sun 21 Jul 2024 22:00:02 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -631,7 +631,7 @@ Normal text
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>REALLY SMALL TEXT</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details> 
--->4931 days until counter expiration (2038-01-19)
+-->4930 days until counter expiration (2038-01-19)
 
 ````````
      July 2024            January 2038      
