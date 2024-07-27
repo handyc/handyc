@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Sat 27 Jul 2024 15:00:01 UTC
-Honolulu        Sat 27 Jul 2024 05:00:01 HST
-Anchorage       Sat 27 Jul 2024 07:00:01 AKDT
-Seattle         Sat 27 Jul 2024 08:00:01 PDT
-Denver          Sat 27 Jul 2024 09:00:01 MDT
-Springfield     Sat 27 Jul 2024 10:00:01 CDT
-Buffalo         Sat 27 Jul 2024 11:00:01 EDT
-Antigonish      Sat 27 Jul 2024 12:00:01 ADT
-Buenos Aires    Sat 27 Jul 2024 12:00:01 -03
-Sao Paulo       Sat 27 Jul 2024 12:00:01 -03
-London          Sat 27 Jul 2024 16:00:01 BST
-Valencia        Sat 27 Jul 2024 17:00:01 CEST
-Jerusalem       Sat 27 Jul 2024 18:00:01 IDT
-Moscow          Sat 27 Jul 2024 18:00:01 MSK
-Tehran          Sat 27 Jul 2024 18:30:01 +0330
-Delhi           Sat 27 Jul 2024 20:30:01 IST
-Kathmandu       Sat 27 Jul 2024 20:45:01 +0545
-Bangkok         Sat 27 Jul 2024 22:00:01 +07
-Guangzhou       Sat 27 Jul 2024 23:00:01 CST
-Tokyo           Sun 28 Jul 2024 00:00:01 JST
-Sydney          Sun 28 Jul 2024 01:00:01 AEST
-Auckland        Sun 28 Jul 2024 03:00:01 NZST
+UTC             Sat 27 Jul 2024 16:00:02 UTC
+Honolulu        Sat 27 Jul 2024 06:00:02 HST
+Anchorage       Sat 27 Jul 2024 08:00:02 AKDT
+Seattle         Sat 27 Jul 2024 09:00:02 PDT
+Denver          Sat 27 Jul 2024 10:00:02 MDT
+Springfield     Sat 27 Jul 2024 11:00:02 CDT
+Buffalo         Sat 27 Jul 2024 12:00:02 EDT
+Antigonish      Sat 27 Jul 2024 13:00:02 ADT
+Buenos Aires    Sat 27 Jul 2024 13:00:02 -03
+Sao Paulo       Sat 27 Jul 2024 13:00:02 -03
+London          Sat 27 Jul 2024 17:00:02 BST
+Valencia        Sat 27 Jul 2024 18:00:02 CEST
+Jerusalem       Sat 27 Jul 2024 19:00:02 IDT
+Moscow          Sat 27 Jul 2024 19:00:02 MSK
+Tehran          Sat 27 Jul 2024 19:30:02 +0330
+Delhi           Sat 27 Jul 2024 21:30:02 IST
+Kathmandu       Sat 27 Jul 2024 21:45:02 +0545
+Bangkok         Sat 27 Jul 2024 23:00:02 +07
+Guangzhou       Sun 28 Jul 2024 00:00:02 CST
+Tokyo           Sun 28 Jul 2024 01:00:02 JST
+Sydney          Sun 28 Jul 2024 02:00:02 AEST
+Auckland        Sun 28 Jul 2024 04:00:02 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
