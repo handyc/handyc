@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Fri 09 Aug 2024 12:00:01 UTC
-Honolulu        Fri 09 Aug 2024 02:00:01 HST
-Anchorage       Fri 09 Aug 2024 04:00:01 AKDT
-Seattle         Fri 09 Aug 2024 05:00:01 PDT
-Denver          Fri 09 Aug 2024 06:00:01 MDT
-Springfield     Fri 09 Aug 2024 07:00:01 CDT
-Buffalo         Fri 09 Aug 2024 08:00:01 EDT
-Antigonish      Fri 09 Aug 2024 09:00:01 ADT
-Buenos Aires    Fri 09 Aug 2024 09:00:01 -03
-Sao Paulo       Fri 09 Aug 2024 09:00:01 -03
-London          Fri 09 Aug 2024 13:00:01 BST
-Valencia        Fri 09 Aug 2024 14:00:01 CEST
-Jerusalem       Fri 09 Aug 2024 15:00:01 IDT
-Moscow          Fri 09 Aug 2024 15:00:01 MSK
-Tehran          Fri 09 Aug 2024 15:30:01 +0330
-Delhi           Fri 09 Aug 2024 17:30:01 IST
-Kathmandu       Fri 09 Aug 2024 17:45:01 +0545
-Bangkok         Fri 09 Aug 2024 19:00:01 +07
-Guangzhou       Fri 09 Aug 2024 20:00:01 CST
-Tokyo           Fri 09 Aug 2024 21:00:01 JST
-Sydney          Fri 09 Aug 2024 22:00:01 AEST
-Auckland        Sat 10 Aug 2024 00:00:01 NZST
+UTC             Fri 09 Aug 2024 15:00:04 UTC
+Honolulu        Fri 09 Aug 2024 05:00:04 HST
+Anchorage       Fri 09 Aug 2024 07:00:04 AKDT
+Seattle         Fri 09 Aug 2024 08:00:04 PDT
+Denver          Fri 09 Aug 2024 09:00:04 MDT
+Springfield     Fri 09 Aug 2024 10:00:04 CDT
+Buffalo         Fri 09 Aug 2024 11:00:04 EDT
+Antigonish      Fri 09 Aug 2024 12:00:04 ADT
+Buenos Aires    Fri 09 Aug 2024 12:00:04 -03
+Sao Paulo       Fri 09 Aug 2024 12:00:04 -03
+London          Fri 09 Aug 2024 16:00:04 BST
+Valencia        Fri 09 Aug 2024 17:00:04 CEST
+Jerusalem       Fri 09 Aug 2024 18:00:04 IDT
+Moscow          Fri 09 Aug 2024 18:00:04 MSK
+Tehran          Fri 09 Aug 2024 18:30:04 +0330
+Delhi           Fri 09 Aug 2024 20:30:04 IST
+Kathmandu       Fri 09 Aug 2024 20:45:04 +0545
+Bangkok         Fri 09 Aug 2024 22:00:04 +07
+Guangzhou       Fri 09 Aug 2024 23:00:04 CST
+Tokyo           Sat 10 Aug 2024 00:00:04 JST
+Sydney          Sat 10 Aug 2024 01:00:04 AEST
+Auckland        Sat 10 Aug 2024 03:00:04 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
