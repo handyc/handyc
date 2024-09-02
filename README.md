@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Mon 02 Sep 2024 21:00:02 UTC
-Honolulu        Mon 02 Sep 2024 11:00:02 HST
-Anchorage       Mon 02 Sep 2024 13:00:02 AKDT
-Seattle         Mon 02 Sep 2024 14:00:02 PDT
-Denver          Mon 02 Sep 2024 15:00:02 MDT
-Springfield     Mon 02 Sep 2024 16:00:02 CDT
-Buffalo         Mon 02 Sep 2024 17:00:02 EDT
-Antigonish      Mon 02 Sep 2024 18:00:02 ADT
-Buenos Aires    Mon 02 Sep 2024 18:00:02 -03
-Sao Paulo       Mon 02 Sep 2024 18:00:02 -03
-London          Mon 02 Sep 2024 22:00:02 BST
-Valencia        Mon 02 Sep 2024 23:00:02 CEST
-Jerusalem       Tue 03 Sep 2024 00:00:02 IDT
-Moscow          Tue 03 Sep 2024 00:00:02 MSK
-Tehran          Tue 03 Sep 2024 00:30:02 +0330
-Delhi           Tue 03 Sep 2024 02:30:02 IST
-Kathmandu       Tue 03 Sep 2024 02:45:02 +0545
-Bangkok         Tue 03 Sep 2024 04:00:02 +07
-Guangzhou       Tue 03 Sep 2024 05:00:02 CST
-Tokyo           Tue 03 Sep 2024 06:00:02 JST
-Sydney          Tue 03 Sep 2024 07:00:02 AEST
-Auckland        Tue 03 Sep 2024 09:00:02 NZST
+UTC             Mon 02 Sep 2024 22:00:02 UTC
+Honolulu        Mon 02 Sep 2024 12:00:02 HST
+Anchorage       Mon 02 Sep 2024 14:00:02 AKDT
+Seattle         Mon 02 Sep 2024 15:00:02 PDT
+Denver          Mon 02 Sep 2024 16:00:02 MDT
+Springfield     Mon 02 Sep 2024 17:00:02 CDT
+Buffalo         Mon 02 Sep 2024 18:00:02 EDT
+Antigonish      Mon 02 Sep 2024 19:00:02 ADT
+Buenos Aires    Mon 02 Sep 2024 19:00:02 -03
+Sao Paulo       Mon 02 Sep 2024 19:00:02 -03
+London          Mon 02 Sep 2024 23:00:02 BST
+Valencia        Tue 03 Sep 2024 00:00:02 CEST
+Jerusalem       Tue 03 Sep 2024 01:00:02 IDT
+Moscow          Tue 03 Sep 2024 01:00:02 MSK
+Tehran          Tue 03 Sep 2024 01:30:02 +0330
+Delhi           Tue 03 Sep 2024 03:30:02 IST
+Kathmandu       Tue 03 Sep 2024 03:45:02 +0545
+Bangkok         Tue 03 Sep 2024 05:00:02 +07
+Guangzhou       Tue 03 Sep 2024 06:00:02 CST
+Tokyo           Tue 03 Sep 2024 07:00:02 JST
+Sydney          Tue 03 Sep 2024 08:00:02 AEST
+Auckland        Tue 03 Sep 2024 10:00:02 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -631,7 +631,7 @@ Normal text
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>REALLY SMALL TEXT</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details> 
--->4887 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
+-->4886 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
 
 ````````
    September 2024         January 2038      
