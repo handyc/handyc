@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Wed 04 Sep 2024 19:00:02 UTC
-Honolulu        Wed 04 Sep 2024 09:00:02 HST
-Anchorage       Wed 04 Sep 2024 11:00:02 AKDT
-Seattle         Wed 04 Sep 2024 12:00:02 PDT
-Denver          Wed 04 Sep 2024 13:00:02 MDT
-Springfield     Wed 04 Sep 2024 14:00:02 CDT
-Buffalo         Wed 04 Sep 2024 15:00:02 EDT
-Antigonish      Wed 04 Sep 2024 16:00:02 ADT
-Buenos Aires    Wed 04 Sep 2024 16:00:02 -03
-Sao Paulo       Wed 04 Sep 2024 16:00:02 -03
-London          Wed 04 Sep 2024 20:00:02 BST
-Valencia        Wed 04 Sep 2024 21:00:02 CEST
-Jerusalem       Wed 04 Sep 2024 22:00:02 IDT
-Moscow          Wed 04 Sep 2024 22:00:02 MSK
-Tehran          Wed 04 Sep 2024 22:30:02 +0330
-Delhi           Thu 05 Sep 2024 00:30:02 IST
-Kathmandu       Thu 05 Sep 2024 00:45:02 +0545
-Bangkok         Thu 05 Sep 2024 02:00:02 +07
-Guangzhou       Thu 05 Sep 2024 03:00:02 CST
-Tokyo           Thu 05 Sep 2024 04:00:02 JST
-Sydney          Thu 05 Sep 2024 05:00:02 AEST
-Auckland        Thu 05 Sep 2024 07:00:02 NZST
+UTC             Wed 04 Sep 2024 20:00:02 UTC
+Honolulu        Wed 04 Sep 2024 10:00:02 HST
+Anchorage       Wed 04 Sep 2024 12:00:02 AKDT
+Seattle         Wed 04 Sep 2024 13:00:02 PDT
+Denver          Wed 04 Sep 2024 14:00:02 MDT
+Springfield     Wed 04 Sep 2024 15:00:02 CDT
+Buffalo         Wed 04 Sep 2024 16:00:02 EDT
+Antigonish      Wed 04 Sep 2024 17:00:02 ADT
+Buenos Aires    Wed 04 Sep 2024 17:00:02 -03
+Sao Paulo       Wed 04 Sep 2024 17:00:02 -03
+London          Wed 04 Sep 2024 21:00:02 BST
+Valencia        Wed 04 Sep 2024 22:00:02 CEST
+Jerusalem       Wed 04 Sep 2024 23:00:02 IDT
+Moscow          Wed 04 Sep 2024 23:00:02 MSK
+Tehran          Wed 04 Sep 2024 23:30:02 +0330
+Delhi           Thu 05 Sep 2024 01:30:02 IST
+Kathmandu       Thu 05 Sep 2024 01:45:02 +0545
+Bangkok         Thu 05 Sep 2024 03:00:02 +07
+Guangzhou       Thu 05 Sep 2024 04:00:02 CST
+Tokyo           Thu 05 Sep 2024 05:00:02 JST
+Sydney          Thu 05 Sep 2024 06:00:02 AEST
+Auckland        Thu 05 Sep 2024 08:00:02 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
