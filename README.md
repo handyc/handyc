@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Wed 27 Nov 2024 22:00:02 UTC
-Honolulu        Wed 27 Nov 2024 12:00:02 HST
-Anchorage       Wed 27 Nov 2024 13:00:02 AKST
-Seattle         Wed 27 Nov 2024 14:00:02 PST
-Denver          Wed 27 Nov 2024 15:00:02 MST
-Springfield     Wed 27 Nov 2024 16:00:02 CST
-Buffalo         Wed 27 Nov 2024 17:00:02 EST
-Antigonish      Wed 27 Nov 2024 18:00:02 AST
-Buenos Aires    Wed 27 Nov 2024 19:00:02 -03
-Sao Paulo       Wed 27 Nov 2024 19:00:02 -03
-London          Wed 27 Nov 2024 22:00:02 GMT
-Valencia        Wed 27 Nov 2024 23:00:02 CET
-Jerusalem       Thu 28 Nov 2024 00:00:02 IST
-Moscow          Thu 28 Nov 2024 01:00:02 MSK
-Tehran          Thu 28 Nov 2024 01:30:02 +0330
-Delhi           Thu 28 Nov 2024 03:30:02 IST
-Kathmandu       Thu 28 Nov 2024 03:45:02 +0545
-Bangkok         Thu 28 Nov 2024 05:00:02 +07
-Guangzhou       Thu 28 Nov 2024 06:00:02 CST
-Tokyo           Thu 28 Nov 2024 07:00:02 JST
-Sydney          Thu 28 Nov 2024 09:00:02 AEDT
-Auckland        Thu 28 Nov 2024 11:00:02 NZDT
+UTC             Wed 27 Nov 2024 23:00:01 UTC
+Honolulu        Wed 27 Nov 2024 13:00:01 HST
+Anchorage       Wed 27 Nov 2024 14:00:01 AKST
+Seattle         Wed 27 Nov 2024 15:00:01 PST
+Denver          Wed 27 Nov 2024 16:00:01 MST
+Springfield     Wed 27 Nov 2024 17:00:01 CST
+Buffalo         Wed 27 Nov 2024 18:00:01 EST
+Antigonish      Wed 27 Nov 2024 19:00:01 AST
+Buenos Aires    Wed 27 Nov 2024 20:00:01 -03
+Sao Paulo       Wed 27 Nov 2024 20:00:01 -03
+London          Wed 27 Nov 2024 23:00:01 GMT
+Valencia        Thu 28 Nov 2024 00:00:01 CET
+Jerusalem       Thu 28 Nov 2024 01:00:01 IST
+Moscow          Thu 28 Nov 2024 02:00:01 MSK
+Tehran          Thu 28 Nov 2024 02:30:01 +0330
+Delhi           Thu 28 Nov 2024 04:30:01 IST
+Kathmandu       Thu 28 Nov 2024 04:45:01 +0545
+Bangkok         Thu 28 Nov 2024 06:00:01 +07
+Guangzhou       Thu 28 Nov 2024 07:00:01 CST
+Tokyo           Thu 28 Nov 2024 08:00:01 JST
+Sydney          Thu 28 Nov 2024 10:00:01 AEDT
+Auckland        Thu 28 Nov 2024 12:00:01 NZDT
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -631,7 +631,7 @@ Normal text
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>REALLY SMALL TEXT</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details> 
--->4801 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
+-->4800 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
 
 ````````
    November 2024          January 2038      
