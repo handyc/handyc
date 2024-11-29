@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Fri 29 Nov 2024 07:00:03 UTC
-Honolulu        Thu 28 Nov 2024 21:00:03 HST
-Anchorage       Thu 28 Nov 2024 22:00:03 AKST
-Seattle         Thu 28 Nov 2024 23:00:03 PST
-Denver          Fri 29 Nov 2024 00:00:03 MST
-Springfield     Fri 29 Nov 2024 01:00:03 CST
-Buffalo         Fri 29 Nov 2024 02:00:03 EST
-Antigonish      Fri 29 Nov 2024 03:00:03 AST
-Buenos Aires    Fri 29 Nov 2024 04:00:03 -03
-Sao Paulo       Fri 29 Nov 2024 04:00:03 -03
-London          Fri 29 Nov 2024 07:00:03 GMT
-Valencia        Fri 29 Nov 2024 08:00:03 CET
-Jerusalem       Fri 29 Nov 2024 09:00:03 IST
-Moscow          Fri 29 Nov 2024 10:00:03 MSK
-Tehran          Fri 29 Nov 2024 10:30:03 +0330
-Delhi           Fri 29 Nov 2024 12:30:03 IST
-Kathmandu       Fri 29 Nov 2024 12:45:03 +0545
-Bangkok         Fri 29 Nov 2024 14:00:03 +07
-Guangzhou       Fri 29 Nov 2024 15:00:03 CST
-Tokyo           Fri 29 Nov 2024 16:00:03 JST
-Sydney          Fri 29 Nov 2024 18:00:03 AEDT
-Auckland        Fri 29 Nov 2024 20:00:03 NZDT
+UTC             Fri 29 Nov 2024 08:00:03 UTC
+Honolulu        Thu 28 Nov 2024 22:00:03 HST
+Anchorage       Thu 28 Nov 2024 23:00:03 AKST
+Seattle         Fri 29 Nov 2024 00:00:03 PST
+Denver          Fri 29 Nov 2024 01:00:03 MST
+Springfield     Fri 29 Nov 2024 02:00:03 CST
+Buffalo         Fri 29 Nov 2024 03:00:03 EST
+Antigonish      Fri 29 Nov 2024 04:00:03 AST
+Buenos Aires    Fri 29 Nov 2024 05:00:03 -03
+Sao Paulo       Fri 29 Nov 2024 05:00:03 -03
+London          Fri 29 Nov 2024 08:00:03 GMT
+Valencia        Fri 29 Nov 2024 09:00:03 CET
+Jerusalem       Fri 29 Nov 2024 10:00:03 IST
+Moscow          Fri 29 Nov 2024 11:00:03 MSK
+Tehran          Fri 29 Nov 2024 11:30:03 +0330
+Delhi           Fri 29 Nov 2024 13:30:03 IST
+Kathmandu       Fri 29 Nov 2024 13:45:03 +0545
+Bangkok         Fri 29 Nov 2024 15:00:03 +07
+Guangzhou       Fri 29 Nov 2024 16:00:03 CST
+Tokyo           Fri 29 Nov 2024 17:00:03 JST
+Sydney          Fri 29 Nov 2024 19:00:03 AEDT
+Auckland        Fri 29 Nov 2024 21:00:03 NZDT
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
