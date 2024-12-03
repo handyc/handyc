@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 03 Dec 2024 19:00:04 UTC
-Honolulu        Tue 03 Dec 2024 09:00:04 HST
-Anchorage       Tue 03 Dec 2024 10:00:04 AKST
-Seattle         Tue 03 Dec 2024 11:00:04 PST
-Denver          Tue 03 Dec 2024 12:00:04 MST
-Springfield     Tue 03 Dec 2024 13:00:04 CST
-Buffalo         Tue 03 Dec 2024 14:00:04 EST
-Antigonish      Tue 03 Dec 2024 15:00:04 AST
-Buenos Aires    Tue 03 Dec 2024 16:00:04 -03
-Sao Paulo       Tue 03 Dec 2024 16:00:04 -03
-London          Tue 03 Dec 2024 19:00:04 GMT
-Valencia        Tue 03 Dec 2024 20:00:04 CET
-Jerusalem       Tue 03 Dec 2024 21:00:04 IST
-Moscow          Tue 03 Dec 2024 22:00:04 MSK
-Tehran          Tue 03 Dec 2024 22:30:04 +0330
-Delhi           Wed 04 Dec 2024 00:30:04 IST
-Kathmandu       Wed 04 Dec 2024 00:45:04 +0545
-Bangkok         Wed 04 Dec 2024 02:00:04 +07
-Guangzhou       Wed 04 Dec 2024 03:00:04 CST
-Tokyo           Wed 04 Dec 2024 04:00:04 JST
-Sydney          Wed 04 Dec 2024 06:00:04 AEDT
-Auckland        Wed 04 Dec 2024 08:00:04 NZDT
+UTC             Tue 03 Dec 2024 20:00:05 UTC
+Honolulu        Tue 03 Dec 2024 10:00:05 HST
+Anchorage       Tue 03 Dec 2024 11:00:05 AKST
+Seattle         Tue 03 Dec 2024 12:00:05 PST
+Denver          Tue 03 Dec 2024 13:00:05 MST
+Springfield     Tue 03 Dec 2024 14:00:05 CST
+Buffalo         Tue 03 Dec 2024 15:00:05 EST
+Antigonish      Tue 03 Dec 2024 16:00:05 AST
+Buenos Aires    Tue 03 Dec 2024 17:00:05 -03
+Sao Paulo       Tue 03 Dec 2024 17:00:05 -03
+London          Tue 03 Dec 2024 20:00:05 GMT
+Valencia        Tue 03 Dec 2024 21:00:05 CET
+Jerusalem       Tue 03 Dec 2024 22:00:05 IST
+Moscow          Tue 03 Dec 2024 23:00:05 MSK
+Tehran          Tue 03 Dec 2024 23:30:05 +0330
+Delhi           Wed 04 Dec 2024 01:30:05 IST
+Kathmandu       Wed 04 Dec 2024 01:45:05 +0545
+Bangkok         Wed 04 Dec 2024 03:00:05 +07
+Guangzhou       Wed 04 Dec 2024 04:00:05 CST
+Tokyo           Wed 04 Dec 2024 05:00:05 JST
+Sydney          Wed 04 Dec 2024 07:00:05 AEDT
+Auckland        Wed 04 Dec 2024 09:00:05 NZDT
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
