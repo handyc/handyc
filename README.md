@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Thu 05 Dec 2024 22:00:02 UTC
-Honolulu        Thu 05 Dec 2024 12:00:02 HST
-Anchorage       Thu 05 Dec 2024 13:00:02 AKST
-Seattle         Thu 05 Dec 2024 14:00:02 PST
-Denver          Thu 05 Dec 2024 15:00:02 MST
-Springfield     Thu 05 Dec 2024 16:00:02 CST
-Buffalo         Thu 05 Dec 2024 17:00:02 EST
-Antigonish      Thu 05 Dec 2024 18:00:02 AST
-Buenos Aires    Thu 05 Dec 2024 19:00:02 -03
-Sao Paulo       Thu 05 Dec 2024 19:00:02 -03
-London          Thu 05 Dec 2024 22:00:02 GMT
-Valencia        Thu 05 Dec 2024 23:00:02 CET
-Jerusalem       Fri 06 Dec 2024 00:00:02 IST
-Moscow          Fri 06 Dec 2024 01:00:02 MSK
-Tehran          Fri 06 Dec 2024 01:30:02 +0330
-Delhi           Fri 06 Dec 2024 03:30:02 IST
-Kathmandu       Fri 06 Dec 2024 03:45:02 +0545
-Bangkok         Fri 06 Dec 2024 05:00:02 +07
-Guangzhou       Fri 06 Dec 2024 06:00:02 CST
-Tokyo           Fri 06 Dec 2024 07:00:02 JST
-Sydney          Fri 06 Dec 2024 09:00:02 AEDT
-Auckland        Fri 06 Dec 2024 11:00:02 NZDT
+UTC             Fri 06 Dec 2024 07:08:07 UTC
+Honolulu        Thu 05 Dec 2024 21:08:07 HST
+Anchorage       Thu 05 Dec 2024 22:08:07 AKST
+Seattle         Thu 05 Dec 2024 23:08:07 PST
+Denver          Fri 06 Dec 2024 00:08:07 MST
+Springfield     Fri 06 Dec 2024 01:08:07 CST
+Buffalo         Fri 06 Dec 2024 02:08:07 EST
+Antigonish      Fri 06 Dec 2024 03:08:07 AST
+Buenos Aires    Fri 06 Dec 2024 04:08:07 -03
+Sao Paulo       Fri 06 Dec 2024 04:08:07 -03
+London          Fri 06 Dec 2024 07:08:07 GMT
+Valencia        Fri 06 Dec 2024 08:08:07 CET
+Jerusalem       Fri 06 Dec 2024 09:08:07 IST
+Moscow          Fri 06 Dec 2024 10:08:07 MSK
+Tehran          Fri 06 Dec 2024 10:38:07 +0330
+Delhi           Fri 06 Dec 2024 12:38:07 IST
+Kathmandu       Fri 06 Dec 2024 12:53:07 +0545
+Bangkok         Fri 06 Dec 2024 14:08:07 +07
+Guangzhou       Fri 06 Dec 2024 15:08:07 CST
+Tokyo           Fri 06 Dec 2024 16:08:07 JST
+Sydney          Fri 06 Dec 2024 18:08:07 AEDT
+Auckland        Fri 06 Dec 2024 20:08:07 NZDT
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -631,7 +631,7 @@ Normal text
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>REALLY SMALL TEXT</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details> 
--->4793 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
+-->4792 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
 
 ````````
    December 2024          January 2038      
