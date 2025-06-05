@@ -57,16 +57,56 @@
 
 <details><summary>pin test</summary>
 <pre>
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/aks">aks</a>                                                                          │  
-│ aks is a utility for extracting n-grams from texts                           │  
-│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
-│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
-│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
-│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
-│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
-│ ⬤C   ☆ 4                                                                    │  
-╰──────────────────────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────╮
+│ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ aks is a utility for extracting n-grams from texts│  
+│ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ ⬤C   ☆ 4                                         │  
+╰───────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
+│ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ aks is a utility for extracting n-grams from texts││ aks is a utility for extracting n-grams from texts│  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │ 
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
+│ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ aks is a utility for extracting n-grams from texts││ aks is a utility for extracting n-grams from texts│  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │ 
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
+│ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ aks is a utility for extracting n-grams from texts││ aks is a utility for extracting n-grams from texts│  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │ 
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
+│ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ aks is a utility for extracting n-grams from texts││ aks is a utility for extracting n-grams from texts│  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │ 
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
+│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 </pre>
 </details>
 
