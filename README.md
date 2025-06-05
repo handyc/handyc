@@ -66,24 +66,24 @@
 │ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
-│ aks is a utility for extracting n-grams from texts││ aks is a utility for extracting n-grams from texts│  
+│ <a href="https://github.com/handyc/klurp">klurp</a>                                             ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ klurp: a text engine for anything                 ││ aks is a utility for extracting n-grams from texts│  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │ 
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
-│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+│ ⬤Python   ☆ 6                                    ││ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
-│ aks is a utility for extracting n-grams from texts││ aks is a utility for extracting n-grams from texts│  
+│ <a href="https://github.com/handyc/hanb">hanb</a>                                              ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ toy universe                                      ││ aks is a utility for extracting n-grams from texts│  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │ 
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
 │ <a href="https://stackoverflow.com/">test</a>                                              ││ <a href="https://stackoverflow.com/">test</a>                                              │  
-│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+│ ⬤Rust   ☆ 2                                      ││ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
