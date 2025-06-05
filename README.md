@@ -17,8 +17,7 @@
 //\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-
-
+</details>
 
 <details><summary>link matrix</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
