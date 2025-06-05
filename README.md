@@ -2,32 +2,29 @@
 
 [MENU](https://github.com/handyc/) [TEST](https://www.wikipedia.org/) [MENU](https://github.com/handyc/hanb) [TEST](https://github.com/handyc/Rth) [MENU](https://github.com/handyc/klurp) [TEST](https://github.com/handyc/likhr) [MENU](https://github.com/handyc/hanb) [TEST](https://github.com/handyc/hanb) 
 
+</pre>
+  
 <details><summary>menu test</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
 ╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test│  
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
 ╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮
-│ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test │  
-╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯
-╭────╮
-│test│  
-╰────╯
-╭──────╮
-│ test │  
-╰──────╯
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
-//\/\/\\/\/\/\////\\/\\/\/\/\\//\\/\/\\/\/\/\/\\/\/\\/\/\/\/\/\\\\/\\/\/\/\/\/\\\\\/\/\/\\/\\/\\\////////\/\
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 </details>
@@ -35,34 +32,25 @@
 <details><summary>virtual keyboard</summary>
 <pre>
 ╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test│  
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
 ╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮
-│ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test │  
-╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯
 ╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test│  
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
 ╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮
-│ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test │  
-╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯
 ╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test│  
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
 ╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮
-│ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test │  
-╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯
 ╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test││test│  
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
 ╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮╭──────╮
-│ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test ││ test │  
-╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯╰──────╯
-╭────╮
-│test│  
-╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
+╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
+│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
+╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│ test                                                                         │  
+│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
 ╰──────────────────────────────────────────────────────────────────────────────╯
 </pre>
 </details>
