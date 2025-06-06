@@ -63,7 +63,7 @@
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/hanb">hanb</a>                                              ││ <a href="https://github.com/handyc/bri">bri</a>                                               │  
 │ toy universe                                      ││ command line hexagon map game based on hanb       │   
-│ ⬤Rust   ☆ 2                                      ││ ⬤bash   ☆ 4                                      │  
+│ ⬤everything   ☆ 2                                ││ ⬤bash   ☆ 4                                      │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/scripts">scripts</a>                                           ││ <a href="https://github.com/handyc/wnow">wnow</a>                                              │  
@@ -81,9 +81,9 @@
 │ ⬤Python   ☆ 6                                    ││ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/hanb">hanb</a>                                              ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
-│ toy universe                                      ││ aks is a utility for extracting n-grams from texts│   
-│ ⬤everything   ☆ 2                                ││ ⬤C   ☆ 4                                         │  
+│ <a href="https://github.com/handyc/yuyy">yuyy</a>                                              ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
+│ HTML game                                         ││ aks is a utility for extracting n-grams from texts│   
+│ ⬤HTML   ☆ 2                                      ││ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/likhr">likhr</a>                                             ││ <a href="https://github.com/handyc/knisa">knisa</a>                                             │  
