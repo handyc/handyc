@@ -71,9 +71,9 @@
 │ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/aks">aks</a>                                               ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
-│ aks is a utility for extracting n-grams from texts││ aks is a utility for extracting n-grams from texts│  
-│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+│ <a href="https://github.com/handyc/maqib">maqib</a>                                             ││ <a href="https://github.com/matheusfillipe/Unborn">Unborn</a>                                            │  
+│ markdown keyboard                                 ││ Godot game                                        │  
+│ ⬤C   ☆ 4                                         ││ ⬤Godot   ☆ 4                                     │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/klurp">klurp</a>                                             ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
