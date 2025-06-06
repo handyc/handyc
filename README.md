@@ -67,8 +67,8 @@
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/scripts">scripts</a>                                           ││ <a href="https://github.com/handyc/wnow">wnow</a>                                              │  
-│ aks is a utility for extracting n-grams from texts││ command line clock                                │  
-│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+│ useful bash scripts                               ││ command line clock                                │  
+│ ⬤bash   ☆ 4                                      ││ ⬤Python   ☆ 4                                    │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/maqib">maqib</a>                                             ││ <a href="https://github.com/matheusfillipe/Unborn">Unborn</a>                                            │  
@@ -76,9 +76,9 @@
 │ ⬤markdown   ☆ 4                                  ││ ⬤Godot   ☆ 4                                     │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/klurp">klurp</a>                                             ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
-│ klurp: a text engine for anything                 ││ aks is a utility for extracting n-grams from texts│  
-│ ⬤Python   ☆ 6                                    ││ ⬤C   ☆ 4                                         │  
+│ <a href="https://github.com/handyc/tubl">tubl</a>                                              ││ <a href="https://github.com/handyc/qwaq">qwaq</a>                                              │  
+│ solve any problem using tubes                     ││ free alternative to tubl                          │  
+│ ⬤tubes   ☆ 6                                     ││ ⬤qwaq   ☆ 4                                      │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/yuyy">yuyy</a>                                              ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
