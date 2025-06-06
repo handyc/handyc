@@ -73,7 +73,7 @@
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/maqib">maqib</a>                                             ││ <a href="https://github.com/matheusfillipe/Unborn">Unborn</a>                                            │  
 │ markdown keyboard                                 ││ Godot game                                        │  
-│ ⬤C   ☆ 4                                         ││ ⬤Godot   ☆ 4                                     │  
+│ ⬤markdown   ☆ 4                                  ││ ⬤Godot   ☆ 4                                     │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/klurp">klurp</a>                                             ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
