@@ -83,17 +83,17 @@
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/hanb">hanb</a>                                              ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
 │ toy universe                                      ││ aks is a utility for extracting n-grams from texts│   
-│ ⬤Rust   ☆ 2                                      ││ ⬤C   ☆ 4                                         │  
+│ ⬤everything   ☆ 2                                ││ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/likhr">likhr</a>                                             ││ <a href="https://github.com/handyc/knisa">knisa</a>                                             │  
 │ mellel clone (in progress)                        ││ ......................Hebrew input testing........│  
-│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+│ ⬤HTML   ☆ 4                                      ││ ⬤HTML   ☆ 4                                      │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 ╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
 │ <a href="https://github.com/handyc/leiland">leiland</a>                                           ││ <a href="https://github.com/handyc/chca">chca</a>                                              │  
 │ leiland                                           ││ chca cellular automaton                           │  
-│ ⬤C   ☆ 4                                         ││ ⬤C   ☆ 4                                         │  
+│ ⬤Python   ☆ 4                                    ││ ⬤C   ☆ 4                                         │  
 ╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
 </pre>
 </details>
