@@ -1,123 +1,7 @@
 ![banner](images/sunset.jpg)
 
-[MENU](https://github.com/handyc/) [TEST](https://www.wikipedia.org/) [MENU](https://github.com/handyc/hanb) [TEST](https://github.com/handyc/Rth) [MENU](https://github.com/handyc/klurp) [TEST](https://github.com/handyc/likhr) [MENU](https://github.com/handyc/hanb) [TEST](https://github.com/handyc/hanb) 
-  
-<details><summary>menu test</summary>
-<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
-<pre>
- _____ ___ _     _____          _____ ____ ___ _____         __     _____ _______        __
-|  ___|_ _| |   | ____|        | ____|  _ \_ _|_   _|        \ \   / /_ _| ____\ \      / /
-| |_   | || |   |  _|          |  _| | | | | |  | |           \ \ / / | ||  _|  \ \ /\ / /
-|  _|  | || |___| |___         | |___| |_| | |  | |            \ V /  | || |___  \ V  V /
-|_|   |___|_____|_____|        |_____|____/___| |_|             \_/  |___|_____|  \_/\_/
 
 
-
-
-
-
-
-
-
-
-
-
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-</pre>
-</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-</details>
-
-<details><summary>virtual keyboard</summary>
-<pre>
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│  <a href="https://stackoverflow.com/">§</a> ││  <a href="https://stackoverflow.com/">1</a> ││  <a href="https://stackoverflow.com/">2</a> ││  <a href="https://stackoverflow.com/">3</a> ││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮╭────╮
-│<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>││<a href="https://stackoverflow.com/">test</a>│  
-╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯╰────╯
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ <a href="https://stackoverflow.com/">test</a>                                                                         │  
-╰──────────────────────────────────────────────────────────────────────────────╯
-</pre>
-</details>
-
-<details><summary>pin test</summary>
-<pre>
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/klurp">klurp</a>                                             ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
-│ klurp: a text engine for anything                 ││ aks is a utility for extracting n-grams from texts│  
-│ ⬤Python   ☆ 6                                    ││ ⬤C   ☆ 4                                         │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/hanb">hanb</a>                                              ││ <a href="https://github.com/handyc/bri">bri</a>                                               │  
-│ toy universe                                      ││ command line hexagon map game based on hanb       │   
-│ ⬤everything   ☆ 2                                ││ ⬤bash   ☆ 4                                      │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/scripts">scripts</a>                                           ││ <a href="https://github.com/handyc/wnow">wnow</a>                                              │  
-│ useful bash scripts                               ││ command line clock                                │  
-│ ⬤bash   ☆ 4                                      ││ ⬤Python   ☆ 4                                    │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/maqib">maqib</a>                                             ││ <a href="https://github.com/matheusfillipe/Unborn">Unborn</a>                                            │  
-│ markdown keyboard                                 ││ Godot game                                        │  
-│ ⬤markdown   ☆ 4                                  ││ ⬤Godot   ☆ 4                                     │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/tubl">tubl</a>                                              ││ <a href="https://github.com/handyc/qwaq">qwaq</a>                                              │  
-│ solve any problem using tubes                     ││ free alternative to tubl                          │  
-│ ⬤tubes   ☆ 6                                     ││ ⬤qwaq   ☆ 4                                      │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/yuyy">yuyy</a>                                              ││ <a href="https://github.com/handyc/aks">aks</a>                                               │  
-│ HTML game                                         ││ aks is a utility for extracting n-grams from texts│   
-│ ⬤HTML   ☆ 2                                      ││ ⬤C   ☆ 4                                         │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/likhr">likhr</a>                                             ││ <a href="https://github.com/handyc/knisa">knisa</a>                                             │  
-│ mellel clone (in progress)                        ││ ......................Hebrew input testing........│  
-│ ⬤HTML   ☆ 4                                      ││ ⬤HTML   ☆ 4                                      │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-╭───────────────────────────────────────────────────╮╭───────────────────────────────────────────────────╮
-│ <a href="https://github.com/handyc/leiland">leiland</a>                                           ││ <a href="https://github.com/handyc/chca">chca</a>                                              │  
-│ leiland                                           ││ chca cellular automaton                           │  
-│ ⬤Python   ☆ 4                                    ││ ⬤C   ☆ 4                                         │  
-╰───────────────────────────────────────────────────╯╰───────────────────────────────────────────────────╯
-</pre>
-</details>
-
-<details><summary>svg styling test</summary>
-<img src="images/tcup.svg" width="300" />
-</details>
 
 <details><summary>link matrix</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
@@ -562,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Tue 10 Dec 2024 15:00:02 UTC
-Honolulu        Tue 10 Dec 2024 05:00:02 HST
-Anchorage       Tue 10 Dec 2024 06:00:02 AKST
-Seattle         Tue 10 Dec 2024 07:00:02 PST
-Denver          Tue 10 Dec 2024 08:00:02 MST
-Springfield     Tue 10 Dec 2024 09:00:02 CST
-Buffalo         Tue 10 Dec 2024 10:00:02 EST
-Antigonish      Tue 10 Dec 2024 11:00:02 AST
-Buenos Aires    Tue 10 Dec 2024 12:00:02 -03
-Sao Paulo       Tue 10 Dec 2024 12:00:02 -03
-London          Tue 10 Dec 2024 15:00:02 GMT
-Valencia        Tue 10 Dec 2024 16:00:02 CET
-Jerusalem       Tue 10 Dec 2024 17:00:02 IST
-Moscow          Tue 10 Dec 2024 18:00:02 MSK
-Tehran          Tue 10 Dec 2024 18:30:02 +0330
-Delhi           Tue 10 Dec 2024 20:30:02 IST
-Kathmandu       Tue 10 Dec 2024 20:45:02 +0545
-Bangkok         Tue 10 Dec 2024 22:00:02 +07
-Guangzhou       Tue 10 Dec 2024 23:00:02 CST
-Tokyo           Wed 11 Dec 2024 00:00:02 JST
-Sydney          Wed 11 Dec 2024 02:00:02 AEDT
-Auckland        Wed 11 Dec 2024 04:00:02 NZDT
+UTC             Thu 12 Jun 2025 22:47:34 UTC
+Honolulu        Thu 12 Jun 2025 12:47:34 HST
+Anchorage       Thu 12 Jun 2025 14:47:34 AKDT
+Seattle         Thu 12 Jun 2025 15:47:34 PDT
+Denver          Thu 12 Jun 2025 16:47:34 MDT
+Springfield     Thu 12 Jun 2025 17:47:34 CDT
+Buffalo         Thu 12 Jun 2025 18:47:34 EDT
+Antigonish      Thu 12 Jun 2025 19:47:35 ADT
+Buenos Aires    Thu 12 Jun 2025 19:47:35 -03
+Sao Paulo       Thu 12 Jun 2025 19:47:35 -03
+London          Thu 12 Jun 2025 23:47:35 BST
+Valencia        Fri 13 Jun 2025 00:47:35 CEST
+Jerusalem       Fri 13 Jun 2025 01:47:35 IDT
+Moscow          Fri 13 Jun 2025 01:47:35 MSK
+Tehran          Fri 13 Jun 2025 02:17:35 +0330
+Delhi           Fri 13 Jun 2025 04:17:35 IST
+Kathmandu       Fri 13 Jun 2025 04:32:35 +0545
+Bangkok         Fri 13 Jun 2025 05:47:35 +07
+Guangzhou       Fri 13 Jun 2025 06:47:35 CST
+Tokyo           Fri 13 Jun 2025 07:47:35 JST
+Sydney          Fri 13 Jun 2025 08:47:35 AEST
+Auckland        Fri 13 Jun 2025 10:47:35 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
@@ -747,14 +631,14 @@ Normal text
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>REALLY SMALL TEXT</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
 </details> 
--->4788 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
+-->4603 days until https://en.wikipedia.org/wiki/Year_2038_problem (2038-01-19)
 
 ````````
-   December 2024          January 2038      
+     June 2025            January 2038      
 Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
  1  2  3  4  5  6  7                  1  2  
  8  9 10 11 12 13 14   3  4  5  6  7  8  9  
 15 16 17 18 19 20 21  10 11 12 13 14 15 16  
 22 23 24 25 26 27 28  17 18 19 20 21 22 23  
-29 30 31              24 25 26 27 28 29 30  
+29 30                 24 25 26 27 28 29 30  
                       31                    
