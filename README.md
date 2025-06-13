@@ -446,28 +446,28 @@ a
 <details><summary>hclock/wnow</summary>
 <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
 <pre>
-UTC             Thu 12 Jun 2025 23:01:40 UTC
-Honolulu        Thu 12 Jun 2025 13:01:40 HST
-Anchorage       Thu 12 Jun 2025 15:01:40 AKDT
-Seattle         Thu 12 Jun 2025 16:01:40 PDT
-Denver          Thu 12 Jun 2025 17:01:40 MDT
-Springfield     Thu 12 Jun 2025 18:01:40 CDT
-Buffalo         Thu 12 Jun 2025 19:01:40 EDT
-Antigonish      Thu 12 Jun 2025 20:01:40 ADT
-Buenos Aires    Thu 12 Jun 2025 20:01:40 -03
-Sao Paulo       Thu 12 Jun 2025 20:01:40 -03
-London          Fri 13 Jun 2025 00:01:40 BST
-Valencia        Fri 13 Jun 2025 01:01:40 CEST
-Jerusalem       Fri 13 Jun 2025 02:01:40 IDT
-Moscow          Fri 13 Jun 2025 02:01:40 MSK
-Tehran          Fri 13 Jun 2025 02:31:40 +0330
-Delhi           Fri 13 Jun 2025 04:31:40 IST
-Kathmandu       Fri 13 Jun 2025 04:46:40 +0545
-Bangkok         Fri 13 Jun 2025 06:01:40 +07
-Guangzhou       Fri 13 Jun 2025 07:01:40 CST
-Tokyo           Fri 13 Jun 2025 08:01:40 JST
-Sydney          Fri 13 Jun 2025 09:01:40 AEST
-Auckland        Fri 13 Jun 2025 11:01:40 NZST
+UTC             Fri 13 Jun 2025 01:00:04 UTC
+Honolulu        Thu 12 Jun 2025 15:00:04 HST
+Anchorage       Thu 12 Jun 2025 17:00:04 AKDT
+Seattle         Thu 12 Jun 2025 18:00:04 PDT
+Denver          Thu 12 Jun 2025 19:00:04 MDT
+Springfield     Thu 12 Jun 2025 20:00:04 CDT
+Buffalo         Thu 12 Jun 2025 21:00:04 EDT
+Antigonish      Thu 12 Jun 2025 22:00:04 ADT
+Buenos Aires    Thu 12 Jun 2025 22:00:04 -03
+Sao Paulo       Thu 12 Jun 2025 22:00:04 -03
+London          Fri 13 Jun 2025 02:00:04 BST
+Valencia        Fri 13 Jun 2025 03:00:04 CEST
+Jerusalem       Fri 13 Jun 2025 04:00:04 IDT
+Moscow          Fri 13 Jun 2025 04:00:04 MSK
+Tehran          Fri 13 Jun 2025 04:30:04 +0330
+Delhi           Fri 13 Jun 2025 06:30:04 IST
+Kathmandu       Fri 13 Jun 2025 06:45:04 +0545
+Bangkok         Fri 13 Jun 2025 08:00:04 +07
+Guangzhou       Fri 13 Jun 2025 09:00:04 CST
+Tokyo           Fri 13 Jun 2025 10:00:04 JST
+Sydney          Fri 13 Jun 2025 11:00:04 AEST
+Auckland        Fri 13 Jun 2025 13:00:04 NZST
 
 </pre>
 </sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
